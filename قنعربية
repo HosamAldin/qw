@@ -54,12 +54,36 @@ http://live.btv2020.com:1935/live/btv2/playlist.m3u8
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 1 FHD
-http://94.130.217.210:1935/adek1/be1/playlist.m3u8
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein1_480/playlist.m3u8
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 2 FHD
-http://94.130.217.210:1935/adek1/be2/playlist.m3u8
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein2_480/playlist.m3u8
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 3 FHD
-http://94.130.217.210:1935/adek1/be3/playlist.m3u8
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein3_480/playlist.m3u8
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 4 FHD
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein4_480/playlist.m3u8
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 5 FHD
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein5_480/playlist.m3u8
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 6 FHD
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein6_480/playlist.m3u8
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 7 FHD
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein7_480/playlist.m3u8
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 8 FHD
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein8_480/playlist.m3u8
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 9 FHD
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein9_480/playlist.m3u8
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 10 FHD
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein10_480/playlist.m3u8
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 11 FHD
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein11_480/playlist.m3u8
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 12 FHD
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein12_480/playlist.m3u8
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 1 HD
+http://94.130.217.210:1935/adek1/be1/playlist.m3u8
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 2 HD
+http://94.130.217.210:1935/adek1/be2/playlist.m3u8
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 3 HD
+http://94.130.217.210:1935/adek1/be3/playlist.m3u8
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 4 HD
 http://94.130.217.210:1935/adek1/be4/playlist.m3u8
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 1 SD
 http://94.130.220.96:1935/adek1/be1_480p/playlist.m3u8
@@ -91,15 +115,15 @@ http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/100
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/101
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT LOW 10 BACKUP
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/102
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",AR: beIN SPORTS 1 4K
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",AR: beIN SPORTS 1 HD
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/103
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",AR: beIN SPORTS 2  4K
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",AR: beIN SPORTS 2 HD
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/104
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",AR: beIN SPORTS 3 4K
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",AR: beIN SPORTS 3 HD
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/105
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",AR: beIN SPORTS 4  4K
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",AR: beIN SPORTS 4 HD
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/106
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",AR: beIN SPORTS 5 4K
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",AR: beIN SPORTS 5 HD
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/107
 #EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORTS NEWS
 http://stream-e30453a4b.nmbs.top/m3u/Sports/e1fda29b8f.m3u8
