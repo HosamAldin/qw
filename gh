@@ -35,144 +35,168 @@ http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/92
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/91
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="قنوات بين سبور BEIN SPORT",beIN SPORTS XTRA
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",Bein قبل المياره فقط طفي التطبيق
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein قبل المياره فقط طفي التطبيق
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 1 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 1 FHD
 https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein1_480/playlist.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 2 FHD
 https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein2_480/playlist.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 3 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 3 FHD
 https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein3_480/playlist.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 4 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 4 FHD
 https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein4_480/playlist.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 5 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 5 FHD
 https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein5_480/playlist.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 6 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 6 FHD
 https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein6_480/playlist.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 7 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 7 FHD
 https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein7_480/playlist.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 8 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 8 FHD
 https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein8_480/playlist.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 9 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 9 FHD
 https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein9_480/playlist.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 10 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 10 FHD
 https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein10_480/playlist.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 11 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 11 FHD
 https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein11_480/playlist.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 12 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 12 FHD
 https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein12_480/playlist.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 1 FHD+
+https://vodcache.worldwidetv.club:443/root-c2/liveorigin-abr/hd-bein1/liveorigin/hd-bein1_480/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 2 FHD+
+https://vodcache.worldwidetv.club:443/root-c2/liveorigin-abr/hd-bein2/liveorigin/hd-bein2_480/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 3 FHD+
+https://vodcache.worldwidetv.club:443/root-c2/liveorigin-abr/hd-bein3/liveorigin/hd-bein3_480/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 4 FHD+
+https://vodcache.worldwidetv.club:443/root-c2/liveorigin-abr/hd-bein4/liveorigin/hd-bein4_480/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 5 FHD+
+https://vodcache.worldwidetv.club:443/root-c2/liveorigin-abr/hd-bein5/liveorigin/hd-bein5_480/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 6 FHD+
+https://vodcache.worldwidetv.club:443/root-c2/liveorigin-abr/hd-bein6/liveorigin/hd-bein6_480/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 7 FHD+
+https://vodcache.worldwidetv.club:443/root-c2/liveorigin-abr/hd-bein7/liveorigin/hd-bein7_480/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 8 FHD+
+https://vodcache.worldwidetv.club:443/root-c2/liveorigin-abr/hd-bein8/liveorigin/hd-bein8_480/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 9 FHD+
+https://vodcache.worldwidetv.club:443/root-c2/liveorigin-abr/hd-bein9/liveorigin/hd-bein9_480/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 10 FHD+
+https://vodcache.worldwidetv.club:443/root-c2/liveorigin-abr/hd-bein10/liveorigin/hd-bein10_480/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 11 FHD+
+https://vodcache.worldwidetv.club:443/root-c2/liveorigin-abr/hd-bein11/liveorigin/hd-bein11_480/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 12 FHD+
+https://vodcache.worldwidetv.club:443/root-c2/liveorigin-abr/hd-bein12/liveorigin/hd-bein12_480/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 1 HD
 http://94.130.217.210:1935/adek1/be1/playlist.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 2 HD
 http://94.130.217.210:1935/adek1/be2/playlist.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 3 HD
 http://94.130.217.210:1935/adek1/be3/playlist.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 4 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 4 HD
 http://94.130.217.210:1935/adek1/be4/playlist.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 1 SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 1 SD
 http://94.130.220.96:1935/adek1/be1_480p/playlist.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 2 SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 2 SD
 http://94.130.217.210:1935/adek1/be2_480p/playlist.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 3 SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 3 SD
 http://94.130.217.210:1935/adek1/be3_480p/playlist.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 4 SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 4 SD
 http://94.130.217.210:1935/adek1/be4_480p/playlist.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 1 LOW
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 1 LOW
 http://94.130.217.210:1935/adek1/be1_360p/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT LOW 1 BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT LOW 1 BACKUP
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/93
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT LOW 2 BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT LOW 2 BACKUP
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/94
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT LOW 3 BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT LOW 3 BACKUP
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/95
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT LOW 4 BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT LOW 4 BACKUP
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/96
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT LOW 5 BACKUP
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT LOW 5 BACKUP
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/97
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",AR: beIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",beIN SPORTS 1 HD
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/103
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",AR: beIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",beIN SPORTS 2 HD
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/104
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",AR: beIN SPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",beIN SPORTS 3 HD
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/105
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",AR: beIN SPORTS 4 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",beIN SPORTS 4 HD
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/106
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",AR: beIN SPORTS 5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",beIN SPORTS 5 HD
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/107
-#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORTS NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORTS NEWS
 http://stream-e30453a4b.nmbs.top/m3u/Sports/e1fda29b8f.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN 1  SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 1  SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/e3bd6ad94b.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN 1  HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 1  HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/79682fd11f.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN 2  SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 2  SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/7f433a1c10.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN 2  HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 2  HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/624beefbc7.m3u8
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN 3  SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 3  SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/915461b83a.m3u8
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN 3  HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 3  HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/ba015d8bf1.m3u8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN 4  SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 4  SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/aadfc3ee8e.m3u8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN 4  HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 4  HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/74ac526fff.m3u8
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN 5  SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 5  SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/0613369e0e.m3u8
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN 5  HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 5  HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/57e9a1c12c.m3u8
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN 6  SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 6  SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/e9d1f956b0.m3u8
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN 6  HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 6  HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/7090081cef.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BEIN 7  SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 7  SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/f06271f891.m3u8
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN 7  HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 7  HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/bb5c759926.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BEIN 8  SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 8  SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/7c2d86352c.m3u8
-#EXTINF:0 tvg-id="bein8hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN 8  HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 8  HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/c8258ea7d8.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BEIN 9  SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 9  SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/16a88ce00f.m3u8
-#EXTINF:0 tvg-id="bein9hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN 9  HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 9  HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/ecc4c38e47.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BEIN 10  SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 10  SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/17087669cf.m3u8
-#EXTINF:0 tvg-id="bein10hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN 10  HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 10  HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/9045c40d50.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BEIN 11  SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 11  SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/a11f431c62.m3u8
-#EXTINF:0 tvg-id="bein11hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN 11  HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 11  HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/c70ecfd8f9.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BEIN 12  SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 12  SD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/aadeedd762.m3u8
-#EXTINF:0 tvg-id="bein12hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN 12  HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 12  HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/6eb4a7ff4b.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BEIN 13
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN 13
 http://stream-e30453a4b.nmbs.top/m3u/Sports/a815fa21c5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/QzfkKXW1dro/hqdefault.jpg" group-title="قنوات بين سبور BEIN SPORT", Bein Sports HD 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT", Bein Sports HD 1
 http://cdn1.52dvb.xyz:80/5000/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/eAgxuIMe0Po/hqdefault.jpg" group-title="قنوات بين سبور BEIN SPORT", Bein Sports HD 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT", Bein Sports HD 2
 http://cdn1.52dvb.xyz:80/5001/playlist.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT HD Bein Sports HD3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein Sports HD3
 http://cdn1.52dvb.xyz:80/5002/playlist.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT HD Bein Sports HD4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein Sports HD4
 http://cdn1.52dvb.xyz:80/5003/playlist.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT HD Bein Sports HD5
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein Sports HD5
 http://cdn1.52dvb.xyz:80/5004/playlist.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT HD Bein Sports HD6
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein Sports HD6
 http://cdn1.52dvb.xyz:80/5005/playlist.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT HD Bein Sports HD7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein Sports HD7
 http://cdn1.52dvb.xyz:80/5006/playlist.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT HD Bein Sports HD8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein Sports HD8
 http://cdn1.52dvb.xyz:80/5007/playlist.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT HD Bein Sports HD9
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein Sports HD9
 http://cdn1.52dvb.xyz:80/5008/playlist.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT HD Bein Sports HD10
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein Sports HD10
 http://cdn1.52dvb.xyz:80/5009/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="باقة اي أر تيART",▂ ▄ ▅ ▆☆ ART ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
