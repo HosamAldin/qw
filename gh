@@ -1505,12 +1505,8 @@ https://bit.ly/39YjahM
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-T4qZTrOBWr0/W7UrB-KId9I/AAAAAAAAApY/hjI0KbWlmzsSmCaSL_aFJBnP8ChzahDOQCLcBGAs/s400/ee.jpg" group-title="PALESTINE قنوات فلسطين",AR:Bethlehem Tv
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://btv2020.com/wp-content/uploads/2020/03/btv-2020-B.png" group-title="PALESTINE قنوات فلسطين",AR:Bethlehem 2 Tv
-http://live.btv2020.com:1935/live/btv2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/LXBiCQhBhEs/hqdefault.jpg" group-title="PALESTINE قنوات فلسطين",AR:تلفزيون السلام Tv
 http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-GzxKYl2i9Wc/Wc9oDUO3FqI/AAAAAAAABWE/tdgxc4RzBWE53bDrfMu-AnAv8ltzxqdogCLcBGAs/s1600/Alhorreya_Tv.png" group-title="PALESTINE قنوات فلسطين",AR:تلفزيون الحرية فلسطين Tv
-http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.wataan.com/uploads/642018-120523PM.jpg" group-title="PALESTINE قنوات فلسطين",AR:PAL-AlQuds
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/al_yawm.png" group-title="PALESTINE قنوات فلسطين",AR:PAL-AL YAUM
