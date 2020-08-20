@@ -35,22 +35,8 @@ http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/92
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/91
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="قنوات بين سبور BEIN SPORT",beIN SPORTS XTRA
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",Bein انتر ميلان ضد شاختار دونيتسك
-https://akamai2-mx.cdn.booyah.live/hls/210150/21745514.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",Bein انتر ميلان ضد شاختار دونيتسك
-https://akamai2-mx.cdn.booyah.live/hls/210158/21752447.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",Bein قبل المياره فقط طفي التطبيق
-https://centurylink.mx.cdn.booyah.live/hls/210150/21745284.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",Bein انتر ميلان ضد شاختار دونيتسك
-https://akamai2-me.cdn.booyah.live/hls/113134/21760642.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",Bein انتر ميلان ضد شاختار دونيتسك
-https://akamai2-me.cdn.booyah.live/hls/113132/21761221.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",Bein انتر ميلان ضد شاختار دونيتسك
-https://mn-nl-glb.mncdn.com/dlive/transcode-65-148/yopes1140/1597688874/src/live.m3u8
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
-http://live.btv2020.com:1935/live/btv2/playlist.m3u8
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 1 FHD
