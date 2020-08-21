@@ -276,22 +276,6 @@ https://p-mysat-live.ercdn.net/tarabtv/tarabtv.m3u8?airmaxtv.m3u8
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein Movies 1
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/4d04c95572.m3u8
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein Movies 2
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/7fbadfa469.m3u8
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein Movies 3
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/fd6d1302c0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein Movies 4
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/1b2c697713.m3u8
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BEIN GOURMET
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/58ab0dafbb.m3u8
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BEIN SERIES 1
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/d7e489c69b.m3u8
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BEIN SERIES 2
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/db355ef2b0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BEIN DRAMA
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/45f1dfc7b9.m3u8
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein:Movies action
 http://178.63.48.23:25461/airmaxtvosn/swApj6Bq3T/1
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein:Movies drama
