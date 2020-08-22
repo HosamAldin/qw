@@ -35,17 +35,10 @@ http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/92
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/91
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="قنوات بين سبور BEIN SPORT",beIN SPORTS XTRA
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein إشبيلية ضد إنتر ميلان
-https://akamai2-mx.cdn.booyah.live/hls/250176/22035790.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein إشبيلية ضد إنتر ميلان
-https://akamai2-mx.cdn.booyah.live/hls/210150/22052619.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein إشبيلية ضد إنتر ميلان
-https://mn-nl-glb.mncdn.com/dlive/transcode-65-148/yopes1140/1598034157/src/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein إشبيلية ضد إنتر ميلان
-https://akamai2-me.cdn.booyah.live/hls/113130/22054831.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein إشبيلية ضد إنتر ميلان
-https://akamai2-me.cdn.booyah.live/hls/113137/22067402.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein قبل المياره فقط طفي التطبيق
+https://akamai2-mx.cdn.booyah.live/hls/250176/22035790.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein قبل المياره فقط طفي التطبيق
+https://akamai2-mx.cdn.booyah.live/hls/210150/22052619.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
