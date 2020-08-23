@@ -779,6 +779,14 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Destiny-The-Tale-of-K
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Heung-boo-The-Revolutionist-2018.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="افلام أجنبية مترجمه",▂ ▄ ▅ ▆☆ افلام أجنبية مترجمه ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="avi" group-title="افلام أجنبية مترجمه",She Dies Tomorrow
+https://cdn.alarab.com/h264/158399_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="افلام أجنبية مترجمه",I Used to Go Here
+https://cdn.alarab.com/h264/158404_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="افلام أجنبية مترجمه",Made_in_Italy 2020
+https://cdn.alarab.com/h264/158417_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="افلام أجنبية مترجمه",Project Power
+https://cdn.alarab.com/h264/158478_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام أجنبية مترجمه",DeepBlueSea3
 http://95.170.215.118:84/vod1/EnglishMovies/2020/DeepBlueSea3-Ar-Srt.mp4
 #EXTINF:0 tvg-id="avi" group-title="افلام أجنبية مترجمه",Before.The.Fire.2020
