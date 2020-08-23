@@ -943,10 +943,10 @@ https://p-mysat-live.ercdn.net/syriatv/syriatv.m3u8?airmaxtv.m3u8
 http://stream.sama-tv.net:8080/hls/samatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9HCiWqv.jpg" group-title="Syria قنوات سورية",AR:SYR-Lana Plus
 http://178.63.48.23:25461/airmaxtvsy/S2lgjZgpVi/54
-#EXTINF:-1 tvg-id="Lana TV" tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="Syria قنوات سورية",AR:SYR-LANA TV
-http://178.63.48.23:25461/airmaxtvsy/S2lgjZgpVi/55
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="Syria قنوات سورية",AR:SYR-LANA HD+
 https://p-mysat-live.ercdn.net/lanatv/lanatv.m3u8?airmaxtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="Syria قنوات سورية",AR:SYR-LANA HD++
+https://mysat-live.ercdn.net/lanatv/lanatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="",AR:SYR-NOUR ELSHAM
 http://82.137.248.16:1935/Nour/stream31122019/chunklist.m3u8?airmaxtv.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-logo="http://sy.heytv.org/wp-content/uploads/2019/04/Sham-FM-TV-webtvonlive.com_.jpg" group-title="Syria قنوات سورية",AR:SYR-SHAM.FM TV
@@ -1087,7 +1087,7 @@ https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live
 #EXTINF:-1 tvg-id="" tvg-logo="https://cache.eremnews.com/wp-content/uploads/2018/08/JORDAN-SPORT-540x268.jpg" group-title="JORDAN قنوات الاردن",AR:JR-Jordan Sport
 http://37.235.38.131:9090/Jordan_Sport_HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Al-Mamlaka_TV_logo.png/250px-Al-Mamlaka_TV_logo.png" group-title="JORDAN قنوات الاردن",ALmamlka TV
-https://almamlka-live.ercdn.net/almamlka/almamlka_480p.m3u8?airmaxtv.m3u8
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-Q-i-P1NwufU/W3DthdXiwdI/AAAAAAAAAtQ/R9QKOMW-dk4aG2gZRWFXMm60Cl-TyH4cgCLcBGAs/s1600/altaghier.png" group-title="JORDAN قنوات الاردن",altaghier tv
 http://api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://4.bp.blogspot.com/-4tmXKe62IC4/XFBLkwSv_vI/AAAAAAAAAaE/FEkYUdJD_RErMvSFnCFwoGvM0q-r9ZIMQCLcBGAs/s1600/download.jpg" group-title="JORDAN قنوات الاردن",A ONE
