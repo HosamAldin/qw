@@ -350,7 +350,7 @@ https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="DMC" tvg-logo="http://omgchannel.net/image/cache/catalog/logo-210x89.png" group-title="قنوات نتفليكسNETFLIX",Omg Channel TV
 http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="DMC" tvg-logo="https://1.bp.blogspot.com/-oSgZlP022YU/WxlNTz2DsMI/AAAAAAAACls/t35IWL00H2gANUUEY64mxF2x3568Xze7gCLcBGAs/s1600/imagine%2Bmovies%2Btv-min.png" group-title="قنوات نتفليكسNETFLIX",Imagine Movies
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/d458abdef2.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",NETFLIX ACTION
 http://178.63.48.23:25461/airmaxtvnet/W9Ja8EVmG7/63
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",NETFLIX Horror
@@ -404,11 +404,11 @@ https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.kooora.com/?i=01%2Fef4_yfjwoamdbmn.jpg" group-title="قنوات رياضية SPORT",KSA SPORTS 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/1211f3e7a9.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.kooora.com/?i=01%2Fef4_yfjwoamdbmn.jpg" group-title="قنوات رياضية SPORT",KSA SPORTS 1+
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/128
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.kooora.com/?i=01%2Fef4_yfjwoamdbmn.jpg" group-title="قنوات رياضية SPORT",KSA SPORTS 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/e91b8a427a.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/DepO9OpX0AARC0W.png" group-title="قنوات رياضية SPORT",Egypt:ZAMALIK TV
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/126
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Al_Ahly_Tv_Logo.jpg" group-title="قنوات رياضية SPORT",Egypt:Al Ahly TV
@@ -573,331 +573,6 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",Munchen TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",PTV SPORTS  LOW
-http://stream-e30453a4b.nmbs.top/m3u/Sports/858db942ca.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",PTV SPORTS  HIGH
-http://stream-e30453a4b.nmbs.top/m3u/Sports/9f2b7abe6e.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",GEO SUPER  LOW
-http://stream-e30453a4b.nmbs.top/m3u/Sports/314138101e.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",GEO SUPER  HIGH
-http://stream-e30453a4b.nmbs.top/m3u/Sports/d914491297.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",TEN SPORTS PAKISTANI
-http://stream-e30453a4b.nmbs.top/m3u/Sports/7b3bdb4ee2.m3u8
-#EXTINF:0 tvg-id="TenHD.in" group-title="قنوات رياضية SPORT",SONY TEN 1  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/d52768c511.m3u8
-#EXTINF:0 tvg-id="TenSports.in" group-title="قنوات رياضية SPORT",SONY TEN 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/29bf1f2af0.m3u8
-#EXTINF:0 tvg-id="TenAction.in" group-title="قنوات رياضية SPORT",SONY TEN 2  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/f01628f3d3.m3u8
-#EXTINF:0 tvg-id="TenAction.in" group-title="قنوات رياضية SPORT",SONY TEN 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/6b503e374b.m3u8
-#EXTINF:0 tvg-id="TenCricket.in" group-title="قنوات رياضية SPORT",SONY TEN 3  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/7aa152e819.m3u8
-#EXTINF:0 tvg-id="TenCricket.in" group-title="قنوات رياضية SPORT",SONY TEN 3
-http://stream-e30453a4b.nmbs.top/m3u/Sports/a61b26fef7.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",STAR SPORTS FIRST
-http://stream-e30453a4b.nmbs.top/m3u/Sports/3ab1570cfb.m3u8
-#EXTINF:0 tvg-id="StarSportsSelect1.in" group-title="قنوات رياضية SPORT",STAR SPORTS SELECT 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/9d6bbb4c29.m3u8
-#EXTINF:0 tvg-id="StarSportsSelect2.in" group-title="قنوات رياضية SPORT",STAR SPORTS SELECT 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/a26ca37aa0.m3u8
-#EXTINF:0 tvg-id="StarSports1.in" group-title="قنوات رياضية SPORT",STAR SPORTS 1  SD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/facf3b3a78.m3u8
-#EXTINF:0 tvg-id="StarSportsHD1.in" group-title="قنوات رياضية SPORT",STAR SPORTS 1  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/bd24d5a7e3.m3u8
-#EXTINF:0 tvg-id="StarSports2.in" group-title="قنوات رياضية SPORT",STAR SPORTS 2  SD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/09c222f206.m3u8
-#EXTINF:0 tvg-id="StarSportsHD2.in" group-title="قنوات رياضية SPORT",STAR SPORTS 2  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/f129ae2f40.m3u8
-#EXTINF:0 tvg-id="StarSports3.in" group-title="قنوات رياضية SPORT",STAR SPORTS 1 HINDI
-http://stream-e30453a4b.nmbs.top/m3u/Sports/3801910ec9.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",STAR SPORTS 1 HINDI  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/b0eed31332.m3u8
-#EXTINF:0 tvg-id="StarSports3.in" group-title="قنوات رياضية SPORT",STAR SPORTS 3
-http://stream-e30453a4b.nmbs.top/m3u/Sports/8d5e65ac4d.m3u8
-#EXTINF:0 tvg-id="SonySix.in" group-title="قنوات رياضية SPORT",SONY SIX
-http://stream-e30453a4b.nmbs.top/m3u/Sports/2f19d86830.m3u8
-#EXTINF:0 tvg-id="SonySixHD.in" group-title="قنوات رياضية SPORT",SONY SIX  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/0efc7c7acd.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",WILLOW CRICKET  LOW
-http://stream-e30453a4b.nmbs.top/m3u/Sports/5fa1026b0c.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",WILLOW CRICKET  HIGH
-http://stream-e30453a4b.nmbs.top/m3u/Sports/9f7cf3b5c4.m3u8
-#EXTINF:0 tvg-id="PremierSports1.uk" group-title="قنوات رياضية SPORT",PREMIER SPORTS  1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/bb05b08d6c.m3u8
-#EXTINF:0 tvg-id="PremierSports2.uk" group-title="قنوات رياضية SPORT",PREMIER SPORTS  2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/ebbfa243b7.m3u8
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="قنوات رياضية SPORT",SKY SPORTS NEWS
-http://stream-e30453a4b.nmbs.top/m3u/Sports/c12926cc1d.m3u8
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="قنوات رياضية SPORT",SKY SPORTS MAIN EVENT
-http://stream-e30453a4b.nmbs.top/m3u/Sports/8c2a4e79c1.m3u8
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="قنوات رياضية SPORT",SKY SPORTS MAIN EVENT  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/6821980ac9.m3u8
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="قنوات رياضية SPORT",SKY SPORTS CRICKET
-http://stream-e30453a4b.nmbs.top/m3u/Sports/6089a6d640.m3u8
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="قنوات رياضية SPORT",SKY SPORTS CRICKET  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/209b929d09.m3u8
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="قنوات رياضية SPORT",SKY SPORTS ACTION
-http://stream-e30453a4b.nmbs.top/m3u/Sports/9ed0e5e694.m3u8
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="قنوات رياضية SPORT",SKY SPORTS ACTION  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/01c28c1790.m3u8
-#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="قنوات رياضية SPORT",SKY SPORTS GOLF
-http://stream-e30453a4b.nmbs.top/m3u/Sports/73b2082f87.m3u8
-#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="قنوات رياضية SPORT",SKY SPORTS GOLF  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/ed04f1621a.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",SKY SPORTS LEAGUE
-http://stream-e30453a4b.nmbs.top/m3u/Sports/7b0be90830.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",SKY SPORTS LEAGUE  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/71dbd2fb94.m3u8
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="قنوات رياضية SPORT",SKY SPORTS ARENA
-http://stream-e30453a4b.nmbs.top/m3u/Sports/050156c6ae.m3u8
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="قنوات رياضية SPORT",SKY SPORTS ARENA  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/a8b78b572a.m3u8
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="قنوات رياضية SPORT",SKY SPORTS FOOTBALL
-http://stream-e30453a4b.nmbs.top/m3u/Sports/b2c6f5370b.m3u8
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="قنوات رياضية SPORT",SKY SPORTS FOOTBALL  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/5ae22ea6ae.m3u8
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="قنوات رياضية SPORT",SKY SPORTS F1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/dd960521e0.m3u8
-#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="قنوات رياضية SPORT",SKY SPORTS F1  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/3c40561002.m3u8
-#EXTINF:0 tvg-id="SkySpMix.uk" group-title="قنوات رياضية SPORT",SKY SPORTS MIX
-http://stream-e30453a4b.nmbs.top/m3u/Sports/6466b97264.m3u8
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="قنوات رياضية SPORT",BT SPORTS 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/e0332065eb.m3u8
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="قنوات رياضية SPORT",BT SPORTS 1  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/eb7b301a66.m3u8
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="قنوات رياضية SPORT",BT SPORTS 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/963b5c83d5.m3u8
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="قنوات رياضية SPORT",BT SPORTS 2  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/957be65e60.m3u8
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="قنوات رياضية SPORT",BT SPORTS 3
-http://stream-e30453a4b.nmbs.top/m3u/Sports/1632103526.m3u8
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="قنوات رياضية SPORT",BT SPORTS 3  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/00ed0c5709.m3u8
-#EXTINF:0 tvg-id="Skynews.gr" group-title="قنوات رياضية SPORT",SKY NEWS
-http://stream-e30453a4b.nmbs.top/m3u/Sports/eed8838571.m3u8
-#EXTINF:0 tvg-id="ESPNU.us" group-title="قنوات رياضية SPORT",ESPN  U
-http://stream-e30453a4b.nmbs.top/m3u/Sports/772fc70c8c.m3u8
-#EXTINF:0 tvg-id="ESPNHD.us" group-title="قنوات رياضية SPORT",ESPN  1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/fb631f7c8a.m3u8
-#EXTINF:0 tvg-id="ESPN2.mx" group-title="قنوات رياضية SPORT",ESPN  2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/94d39fd464.m3u8
-#EXTINF:0 tvg-id="ESPNews.us" group-title="قنوات رياضية SPORT",ESPN  NEWS
-http://stream-e30453a4b.nmbs.top/m3u/Sports/6b94d3c219.m3u8
-#EXTINF:0 tvg-id="SonyESPN.in" group-title="قنوات رياضية SPORT",SONY ESPN
-http://stream-e30453a4b.nmbs.top/m3u/Sports/dcd1e6384a.m3u8
-#EXTINF:0 tvg-id="SonyESPNHD.in" group-title="قنوات رياضية SPORT",SONY ESPN  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/6d8217cf71.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",EURO SPORTS 1  SD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/eab69529b0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",EURO SPORTS 1  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/56fee19722.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",EURO SPORTS 2  SD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/771a9b609a.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",EURO SPORTS 2  HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/52d1bf6f71.m3u8
-#EXTINF:0 tvg-id="BoxNation.uk" group-title="قنوات رياضية SPORT",BOX NATION
-http://stream-e30453a4b.nmbs.top/m3u/Sports/a7b50dcaab.m3u8
-#EXTINF:0 tvg-id="setanta-sport" group-title="قنوات رياضية SPORT",SETANTA SPORTS
-http://stream-e30453a4b.nmbs.top/m3u/Sports/d0fbf09451.m3u8
-#EXTINF:0 tvg-id="RacingUK.uk" group-title="قنوات رياضية SPORT",UK RACING
-http://stream-e30453a4b.nmbs.top/m3u/Sports/ad9d68bf34.m3u8
-#EXTINF:0 tvg-id="AtTheRaces.uk" group-title="قنوات رياضية SPORT",AT THE RACES
-http://stream-e30453a4b.nmbs.top/m3u/Sports/50fd7c1091.m3u8
-#EXTINF:0 tvg-id="WWE.ca" group-title="قنوات رياضية SPORT",WWE NETWORK
-http://stream-e30453a4b.nmbs.top/m3u/Sports/1391c208ba.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",Dubai Sports
-http://stream-e30453a4b.nmbs.top/m3u/Sports/525e1d9f04.m3u8
-#EXTINF:0 tvg-id="MUTV.uk" group-title="قنوات رياضية SPORT",MUTV
-http://stream-e30453a4b.nmbs.top/m3u/Sports/fb2fd45098.m3u8
-#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="قنوات رياضية SPORT",REAL MADRID
-http://stream-e30453a4b.nmbs.top/m3u/Sports/1994471c59.m3u8
-#EXTINF:0 tvg-id="LiverpoolFCTV.uk" group-title="قنوات رياضية SPORT",LFC TV
-http://stream-e30453a4b.nmbs.top/m3u/Sports/5d7c11f336.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات رياضية SPORT",BEIN SPORTS USA
-http://stream-e30453a4b.nmbs.top/m3u/Sports/0c7bcb8db3.m3u8
-#EXTINF:0 tvg-id="ChelseaTV.uk" group-title="قنوات رياضية SPORT",Chelsea TV
-http://stream-e30453a4b.nmbs.top/m3u/Sports/c788fb2737.m3u8
-#EXTINF:0 tvg-id="ArenaSport1.hr" group-title="قنوات رياضية SPORT",Arena Sports 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/41c5230a79.m3u8
-#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="قنوات رياضية SPORT",Arena Sports 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/8bdc1aacdf.m3u8
-#EXTINF:0 tvg-id="ArenaSport3.hr" group-title="قنوات رياضية SPORT",Arena Sports 3
-http://stream-e30453a4b.nmbs.top/m3u/Sports/a564a86426.m3u8
-#EXTINF:0 tvg-id="ArenaSport4.hr" group-title="قنوات رياضية SPORT",Arena Sports 4
-http://stream-e30453a4b.nmbs.top/m3u/Sports/a13ca3449a.m3u8
-#EXTINF:0 tvg-id="ArenaSport5.hr" group-title="قنوات رياضية SPORT",Arena Sports 5
-http://stream-e30453a4b.nmbs.top/m3u/Sports/752e52bae4.m3u8
-#EXTINF:0 tvg-id="FOXSports1.us" group-title="قنوات رياضية SPORT",FOX SPORT 1 USA
-http://stream-e30453a4b.nmbs.top/m3u/Sports/c2d957a01d.m3u8
-#EXTINF:0 tvg-id="FOXSports2.us" group-title="قنوات رياضية SPORT",FOX SPORT 2 USA
-http://stream-e30453a4b.nmbs.top/m3u/Sports/3efde4ac6a.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",FOX SPORT 1 NL
-http://stream-e30453a4b.nmbs.top/m3u/Sports/de3c2f3040.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",FOX SPORT 2 NL
-http://stream-e30453a4b.nmbs.top/m3u/Sports/a83c0f151e.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",FOX SPORT 3 NL
-http://stream-e30453a4b.nmbs.top/m3u/Sports/a343513ed4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",FOX SPORT 4 NL
-http://stream-e30453a4b.nmbs.top/m3u/Sports/fa99de9f27.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",FOX SPORT 5 NL
-http://stream-e30453a4b.nmbs.top/m3u/Sports/0597ac4bdf.m3u8
-#EXTINF:0 tvg-id="TSN1.ca" group-title="قنوات رياضية SPORT",TSN SPORTS 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/d4f35cf7c2.m3u8
-#EXTINF:0 tvg-id="TSN2.ca" group-title="قنوات رياضية SPORT",TSN SPORTS 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/fc1a327257.m3u8
-#EXTINF:0 tvg-id="TSN3.ca" group-title="قنوات رياضية SPORT",TSN SPORTS 3
-http://stream-e30453a4b.nmbs.top/m3u/Sports/c08f7b129e.m3u8
-#EXTINF:0 tvg-id="TSN4.ca" group-title="قنوات رياضية SPORT",TSN SPORTS 4
-http://stream-e30453a4b.nmbs.top/m3u/Sports/f7ac7cd76f.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",TSN SPORTS 5
-http://stream-e30453a4b.nmbs.top/m3u/Sports/5c31c97855.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",SPORTSNET WOLRD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/3a1ed01077.m3u8
-#EXTINF:0 tvg-id="SportsNetOntario.ca" group-title="قنوات رياضية SPORT",SPORTSNET ONTARIO
-http://stream-e30453a4b.nmbs.top/m3u/Sports/a48d90bd5f.m3u8
-#EXTINF:0 tvg-id="SportsNetOne.ca" group-title="قنوات رياضية SPORT",SPORTSNET ONE
-http://stream-e30453a4b.nmbs.top/m3u/Sports/1d4783966c.m3u8
-#EXTINF:0 tvg-id="SportsNetNewYork.us" group-title="قنوات رياضية SPORT",SPORTSNET 360
-http://stream-e30453a4b.nmbs.top/m3u/Sports/8931c93da8.m3u8
-#EXTINF:0 tvg-id="ADSports1.net" group-title="قنوات رياضية SPORT",AD SPORTS 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/da7ede4dc9.m3u8
-#EXTINF:0 tvg-id="ADSports2.net" group-title="قنوات رياضية SPORT",AD SPORTS 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/623dd8686a.m3u8
-#EXTINF:0 tvg-id="ADSports3.net" group-title="قنوات رياضية SPORT",AD SPORTS 3
-http://stream-e30453a4b.nmbs.top/m3u/Sports/c91ce7b108.m3u8
-#EXTINF:0 tvg-id="ADSports4.net" group-title="قنوات رياضية SPORT",AD SPORTS 4
-http://stream-e30453a4b.nmbs.top/m3u/Sports/3650870501.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",BEIN FRANCE 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/113404cee5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",BEIN FRANCE 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/cd9e1ab0e4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",BEIN FRANCE 3
-http://stream-e30453a4b.nmbs.top/m3u/Sports/30da28e518.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",VIASAT FOOTBALL HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/bae3e13616.m3u8
-#EXTINF:0 tvg-id="NBA.blt" group-title="قنوات رياضية SPORT",NBA TV
-http://stream-e30453a4b.nmbs.top/m3u/Sports/f9e0a5cfef.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",NBC SN
-http://stream-e30453a4b.nmbs.top/m3u/Sports/019e96a4c6.m3u8
-#EXTINF:0 tvg-id="NFLNetwork.mx" group-title="قنوات رياضية SPORT",NFL NETWORK
-http://stream-e30453a4b.nmbs.top/m3u/Sports/32ceafb0ce.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",AlKass Sports 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/b4966fe8f7.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",AlKass Sports 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/3a690c0671.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",AlKass Sports 4
-http://stream-e30453a4b.nmbs.top/m3u/Sports/5879866f2c.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",AlKass Sports 5
-http://stream-e30453a4b.nmbs.top/m3u/Sports/d965ca504a.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",Sports Tv 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/74b8be496f.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",Sports Tv 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/e1d3ee3e4b.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",Sports Tv 3
-http://stream-e30453a4b.nmbs.top/m3u/Sports/ffe3c16b04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",Sports Tv 4
-http://stream-e30453a4b.nmbs.top/m3u/Sports/5774d88b20.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",Sports Tv 5
-http://stream-e30453a4b.nmbs.top/m3u/Sports/983292458b.m3u8
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="قنوات رياضية SPORT",BENFICA TV
-http://stream-e30453a4b.nmbs.top/m3u/Sports/3373dce441.m3u8
-#EXTINF:0 tvg-id="SportKlub1.hr" group-title="قنوات رياضية SPORT",SPORT KLUB 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/93b918848b.m3u8
-#EXTINF:0 tvg-id="SportKlub2.rs" group-title="قنوات رياضية SPORT",SPORT KLUB 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/fd7ec4437d.m3u8
-#EXTINF:0 tvg-id="SportKlub3.hr" group-title="قنوات رياضية SPORT",SPORT KLUB 3
-http://stream-e30453a4b.nmbs.top/m3u/Sports/9b1eaf1544.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",SKY SP 1 ITALY
-http://stream-e30453a4b.nmbs.top/m3u/Sports/4541dbda1d.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",SKY SP 1 DE
-http://stream-e30453a4b.nmbs.top/m3u/Sports/20cb5d2f56.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",SKY SP 2 DE
-http://stream-e30453a4b.nmbs.top/m3u/Sports/2c73c0d477.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",SUPER SPORTS 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/55c134b831.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",SUPER SPORTS 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/e05e71a8f3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",SUPER SPORTS 3
-http://stream-e30453a4b.nmbs.top/m3u/Sports/24a8d74ce0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",SUPER SPORTS 4
-http://stream-e30453a4b.nmbs.top/m3u/Sports/ae5a4d514b.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",ZIGGO SPORTS SELECT
-http://stream-e30453a4b.nmbs.top/m3u/Sports/f0332b2519.m3u8
-#EXTINF:0 tvg-id="eirSport1.ie" group-title="قنوات رياضية SPORT",EIR SPORTS 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/dfb0fbef44.m3u8
-#EXTINF:0 tvg-id="eirSport2.ie" group-title="قنوات رياضية SPORT",EIR SPORTS 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/d715ee66c4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",DIGI SPORTS 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/efb5578cd9.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",DIGI SPORTS 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/66e2649fcf.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",DIGI SPORTS 3
-http://stream-e30453a4b.nmbs.top/m3u/Sports/57ea05c740.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",DIGI SPORTS 4
-http://stream-e30453a4b.nmbs.top/m3u/Sports/1700558e27.m3u8
-#EXTINF:0 tvg-id="FightBox.pl" group-title="قنوات رياضية SPORT",FIGHTBOX
-http://stream-e30453a4b.nmbs.top/m3u/Sports/9124acc7b5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",D SPORTS
-http://stream-e30453a4b.nmbs.top/m3u/Sports/d4b598aaed.m3u8
-#EXTINF:0 tvg-id="RMCSport1.fr" group-title="قنوات رياضية SPORT",SFR SPORTS 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/1037d7053c.m3u8
-#EXTINF:0 tvg-id="RMCSport2.fr" group-title="قنوات رياضية SPORT",SFR SPORTS 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/de9c9eb9ea.m3u8
-#EXTINF:0 tvg-id="RMCSport3.fr" group-title="قنوات رياضية SPORT",SFR SPORTS 3
-http://stream-e30453a4b.nmbs.top/m3u/Sports/52220e2032.m3u8
-#EXTINF:0 tvg-id="FreeSports.uk" group-title="قنوات رياضية SPORT",FREE SPORTS
-http://stream-e30453a4b.nmbs.top/m3u/Sports/243547dee9.m3u8
-#EXTINF:0 tvg-id="SkyBoxOffice.uk" group-title="قنوات رياضية SPORT",SKY BOX OFFICE
-http://stream-e30453a4b.nmbs.top/m3u/Sports/e4569120b5.m3u8
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="قنوات رياضية SPORT",BT SPORTS ESPN
-http://stream-e30453a4b.nmbs.top/m3u/Sports/0c9e891d39.m3u8
-#EXTINF:0 tvg-id="OTESport1.gr" group-title="قنوات رياضية SPORT",OTE SPORTS 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/95b77ea731.m3u8
-#EXTINF:0 tvg-id="OTESport2.gr" group-title="قنوات رياضية SPORT",OTE SPORTS 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/73a32b95af.m3u8
-#EXTINF:0 tvg-id="OTESport3.gr" group-title="قنوات رياضية SPORT",OTE SPORTS 3
-http://stream-e30453a4b.nmbs.top/m3u/Sports/7f81755e28.m3u8
-#EXTINF:0 tvg-id="OTESport4.gr" group-title="قنوات رياضية SPORT",OTE SPORTS 4
-http://stream-e30453a4b.nmbs.top/m3u/Sports/f96d4cf612.m3u8
-#EXTINF:0 tvg-id="OTESport5.gr" group-title="قنوات رياضية SPORT",OTE SPORTS 5
-http://stream-e30453a4b.nmbs.top/m3u/Sports/b1c6dccd52.m3u8
-#EXTINF:0 tvg-id="OTESport6.gr" group-title="قنوات رياضية SPORT",OTE SPORTS 6
-http://stream-e30453a4b.nmbs.top/m3u/Sports/5f26cd17ba.m3u8
-#EXTINF:0 tvg-id="OTESport7.gr" group-title="قنوات رياضية SPORT",OTE SPORTS 7
-http://stream-e30453a4b.nmbs.top/m3u/Sports/8c0f76fa4f.m3u8
-#EXTINF:0 tvg-id="OTESport8.gr" group-title="قنوات رياضية SPORT",OTE SPORTS 8
-http://stream-e30453a4b.nmbs.top/m3u/Sports/b5250ddeda.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",ASTRO CRICKET
-http://stream-e30453a4b.nmbs.top/m3u/Sports/0349462cac.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",UFC FIGHT
-http://stream-e30453a4b.nmbs.top/m3u/Sports/107778ce7a.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",FOX SPORTS AUSTRALIA FOX SPORTS 501
-http://stream-e30453a4b.nmbs.top/m3u/Sports/28d1e232bb.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",FOX SPORTS AUSTRALIA FOX SPORTS 502
-http://stream-e30453a4b.nmbs.top/m3u/Sports/50337a418a.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",FOX SPORTS AUSTRALIA FOX SPORTS 503
-http://stream-e30453a4b.nmbs.top/m3u/Sports/5e068bc78b.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",FOX SPORTS AUSTRALIA FOX SPORTS 504
-http://stream-e30453a4b.nmbs.top/m3u/Sports/939761597f.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",FOX SPORTS AUSTRALIA FOX SPORTS 505
-http://stream-e30453a4b.nmbs.top/m3u/Sports/406b3e7cd5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",FOX SPORTS AUSTRALIA FOX SPORTS 506
-http://stream-e30453a4b.nmbs.top/m3u/Sports/285b298cde.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",FOX SPORTS AUSTRALIA FOX SPORTS 507
-http://stream-e30453a4b.nmbs.top/m3u/Sports/4f3688c4e4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",DIEMA SPORTS  1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/0bb891119b.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",DIEMA SPORTS  2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/0b63ef60e2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",BEIN SPROTS AUS BEIN SPROTS 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/e3aa34248e.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",BEIN SPROTS AUS BEIN SPROTS 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/6f72d6cc4c.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",BEIN SPROTS AUS BEIN SPROTS 3
-http://stream-e30453a4b.nmbs.top/m3u/Sports/35f7e3f2b5.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",▂ ▄ ▅ ▆☆ NEWS قنوات الاخبار ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",النسخة المدفوعة AirMax TV
@@ -976,8 +651,6 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8?airm
 https://edge-1192-ch-gv.filmon.com/live/3029.high.stream/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" group-title="قنوات الوثائقية",ALJazeera الجزيرة الوثائقية
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" group-title="قنوات الوثائقية",ALJazeera الجزيرة الوثائقية
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/8955b84f58.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.klma.org/wp-content/uploads/2020/01/JzMM5KDx_400x400.jpg" group-title="قنوات الوثائقية",BAHRAIN INTERNATIONAL
 http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fekera.com/wp-content/uploads/2020/03/IMG_%D9%A2%D9%A0%D9%A2%D9%A0%D9%A0%D9%A3%D9%A1%D9%A5_%D9%A1%D9%A6%D9%A4%D9%A5%D9%A3%D9%A4.jpg" group-title="قنوات الوثائقية",Oman الوثائقية
@@ -1096,126 +769,6 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8?airmaxtv.m3u
 http://178.63.48.23:25461/airmaxtvkind/2IlRkOkCqX/88
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/New_Tiny_Pop_Logo_2018.png" group-title="قنوات أطفال Children",Tiny Pop (UK)
 https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",DISNEY UK
-http://stream-e30453a4b.nmbs.top/m3u/Kids/5640dc3199.m3u8
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="قنوات أطفال Children",NICKELODEON UK
-http://stream-e30453a4b.nmbs.top/m3u/Kids/d0dd4d48a2.m3u8
-#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="قنوات أطفال Children",Cartoon Network UK
-http://stream-e30453a4b.nmbs.top/m3u/Kids/9d3852b32c.m3u8
-#EXTINF:0 tvg-id="Nicktoons.uk" group-title="قنوات أطفال Children",NICK TOONS
-http://stream-e30453a4b.nmbs.top/m3u/Kids/75de8ea5b1.m3u8
-#EXTINF:0 tvg-id="DisneyXD.uk" group-title="قنوات أطفال Children",Disney XD UK
-http://stream-e30453a4b.nmbs.top/m3u/Kids/411a5c5b72.m3u8
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="قنوات أطفال Children",Disney JR
-http://stream-e30453a4b.nmbs.top/m3u/Kids/c711ba9170.m3u8
-#EXTINF:0 tvg-id="nick-jr" group-title="قنوات أطفال Children",Nick Jr
-http://stream-e30453a4b.nmbs.top/m3u/Kids/7a77928ca8.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",Nick Jr 2
-http://stream-e30453a4b.nmbs.top/m3u/Kids/00dc94f871.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",Cartoon Network Hindi  HD
-http://stream-e30453a4b.nmbs.top/m3u/Kids/31e103dfc6.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",Cartoon Network Hindi
-http://stream-e30453a4b.nmbs.top/m3u/Kids/83e5427488.m3u8
-#EXTINF:0 tvg-id="HungamaTV.in" group-title="قنوات أطفال Children",Hungama Tv
-http://stream-e30453a4b.nmbs.top/m3u/Kids/1f3e9e6679.m3u8
-#EXTINF:0 tvg-id="TinyPop.uk" group-title="قنوات أطفال Children",Tiny Pop
-http://stream-e30453a4b.nmbs.top/m3u/Kids/24ffa0d3a2.m3u8
-#EXTINF:0 tvg-id="BabyTV.uk" group-title="قنوات أطفال Children",BABY TV UK
-http://stream-e30453a4b.nmbs.top/m3u/Kids/78d140af59.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",Disney Hindi
-http://stream-e30453a4b.nmbs.top/m3u/Kids/ddcb586f24.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",Nickelodeon Hindi
-http://stream-e30453a4b.nmbs.top/m3u/Kids/ab8c8f8912.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",Nick Jr Hindi
-http://stream-e30453a4b.nmbs.top/m3u/Kids/b7aae55a06.m3u8
-#EXTINF:0 tvg-id="POGO.in" group-title="قنوات أطفال Children",Pogo Hindi
-http://stream-e30453a4b.nmbs.top/m3u/Kids/13749315c7.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",Disney XD Hindi
-http://stream-e30453a4b.nmbs.top/m3u/Kids/5cf6d8f21d.m3u8
-#EXTINF:0 tvg-id="Kix.uk" group-title="قنوات أطفال Children",Kix Tv
-http://stream-e30453a4b.nmbs.top/m3u/Kids/bef30a4eb6.m3u8
-#EXTINF:0 tvg-id="PopTV.svn" group-title="قنوات أطفال Children",Pop Tv
-http://stream-e30453a4b.nmbs.top/m3u/Kids/c8a1817526.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",SPACE TOON
-http://stream-e30453a4b.nmbs.top/m3u/Kids/a4efe4fb7b.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",CARTOON NETWORK ARABIC
-http://stream-e30453a4b.nmbs.top/m3u/Kids/510bc6d908.m3u8
-#EXTINF:0 tvg-id="CanalJ.fr" group-title="قنوات أطفال Children",CANAL J
-http://stream-e30453a4b.nmbs.top/m3u/Kids/05bcd8c334.m3u8
-#EXTINF:0 tvg-id="tiji" group-title="قنوات أطفال Children",TIJI
-http://stream-e30453a4b.nmbs.top/m3u/Kids/2cbd8fc7fb.m3u8
-#EXTINF:0 tvg-id="boomerang" group-title="قنوات أطفال Children",BOOMERANG
-http://stream-e30453a4b.nmbs.top/m3u/Kids/cc5b5ca4cc.m3u8
-#EXTINF:0 tvg-id="Cartoonito.uk" group-title="قنوات أطفال Children",CARTOONITO
-http://stream-e30453a4b.nmbs.top/m3u/Kids/76633d9420.m3u8
-#EXTINF:0 tvg-id="CBBC.uk" group-title="قنوات أطفال Children",CBBC
-http://stream-e30453a4b.nmbs.top/m3u/Kids/8f160f87ae.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",PBS KIDS
-http://stream-e30453a4b.nmbs.top/m3u/Kids/6910bdd874.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",SONY YAY HINDI
-http://stream-e30453a4b.nmbs.top/m3u/Kids/7fc5a8779a.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",Discovery Kids  English
-http://stream-e30453a4b.nmbs.top/m3u/Kids/f27d70d480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",Discovery Kids  Hindi
-http://stream-e30453a4b.nmbs.top/m3u/Kids/443e319a22.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",BARAEM TV
-http://stream-e30453a4b.nmbs.top/m3u/Kids/c46c38bd16.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",MAJID KIDS
-http://stream-e30453a4b.nmbs.top/m3u/Kids/ffb59554ab.m3u8
-#EXTINF:0 tvg-id="CBeebies.uk" group-title="قنوات أطفال Children",CBEEBIES UK
-http://stream-e30453a4b.nmbs.top/m3u/Kids/3207341b6b.m3u8
-#EXTINF:0 tvg-id="JEEMTV.net" group-title="قنوات أطفال Children",JEEM TV
-http://stream-e30453a4b.nmbs.top/m3u/Kids/7c16cbe9de.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",NICK TAMIL
-http://stream-e30453a4b.nmbs.top/m3u/Kids/5b07dc7e40.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",CARTOON NETWORK TM
-http://stream-e30453a4b.nmbs.top/m3u/Kids/d400f0ed29.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",CARTOON NETWORK TG
-http://stream-e30453a4b.nmbs.top/m3u/Kids/66a4ad822e.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",Discovery KIDS TM
-http://stream-e30453a4b.nmbs.top/m3u/Kids/e6c630edb4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",POGO TAMIL
-http://stream-e30453a4b.nmbs.top/m3u/Kids/b9badf1263.m3u8
-#EXTINF:0 tvg-id="ChuttiTV.in" group-title="قنوات أطفال Children",CHUTTI TV
-http://stream-e30453a4b.nmbs.top/m3u/Kids/65f996f98f.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",KUSHI TV TELUGU
-http://stream-e30453a4b.nmbs.top/m3u/Kids/b7a1c450ff.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",SONY YAY TELUGU
-http://stream-e30453a4b.nmbs.top/m3u/Kids/d059122ce2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",MICKEY TV
-http://stream-e30453a4b.nmbs.top/m3u/Kids/d07663b099.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",NICK PAKISTAN
-http://stream-e30453a4b.nmbs.top/m3u/Kids/4a1d0595b7.m3u8
-#EXTINF:0 tvg-id="KochuTv.in" group-title="قنوات أطفال Children",KOCHU TV
-http://stream-e30453a4b.nmbs.top/m3u/Kids/ef074ee78a.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",CARTOON NETWORK PAK
-http://stream-e30453a4b.nmbs.top/m3u/Kids/42b70f4531.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",DISNEY INT
-http://stream-e30453a4b.nmbs.top/m3u/Kids/99a1addb07.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",SONIC NICKELODEON SONIC HINDI
-http://stream-e30453a4b.nmbs.top/m3u/Kids/49303a3fe9.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",SONIC NICKELODEON SONIC MALAYALAM
-http://stream-e30453a4b.nmbs.top/m3u/Kids/de85eb634d.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",SONIC NICKELODEON SONIC TAMIL
-http://stream-e30453a4b.nmbs.top/m3u/Kids/edd23b99f1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",SONIC NICKELODEON SONIC TELUGU
-http://stream-e30453a4b.nmbs.top/m3u/Kids/8c55f6f100.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",WOW KIDS  HINDI
-http://stream-e30453a4b.nmbs.top/m3u/Kids/01b732cf56.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",MARVEL HQ MARVEL HINDI
-http://stream-e30453a4b.nmbs.top/m3u/Kids/5bba709f5c.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",MARVEL HQ MARVEL TAMIL
-http://stream-e30453a4b.nmbs.top/m3u/Kids/3cb189c30e.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",NICK TELUGU
-http://stream-e30453a4b.nmbs.top/m3u/Kids/57e5308197.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",NICK KANNADA
-http://stream-e30453a4b.nmbs.top/m3u/Kids/7b24bc0677.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",CINEMACHI KIDS
-http://stream-e30453a4b.nmbs.top/m3u/Kids/f7bf9a215b.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",KID ZONE PAK
-http://stream-e30453a4b.nmbs.top/m3u/Kids/3296627dff.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",POP KIDS PAK
-http://stream-e30453a4b.nmbs.top/m3u/Kids/61cf94df05.m3u8
 #EXTINF:-1 tvg-id="MBC1 4K" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/gHm5YehuaE926_d7SufrgCv7u3wORgia4xfVsUOyQUnzc4jQ8EPIrtKe6NGirBjG7VPL" group-title="قنوات أم بي سيMBC",▂ ▄ ▅ ▆☆ MBC HD ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",النسخة المدفوعة AirMax TV
@@ -1238,8 +791,6 @@ https://shls-iraq-prod.shahid.net/iraq-prod.m3u8?airmaxtv.m3u8
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="MBC Action" tvg-name="AR:MY-MBC ACTION 4K" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC ACTION FHD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC VARIETY 4K" tvg-logo="https://www.gobx.com/wp-content/uploads/2016/08/MBC-Variety.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC VARIETY HD
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/df9a4b9504.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC VARIETY 4K" tvg-logo="https://www.gobx.com/wp-content/uploads/2016/08/MBC-Variety.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC VARIETY HD+
 http://178.63.48.23:25461/airmaxtvosn/swApj6Bq3T/15
 #EXTINF:-1 tvg-id="MBC Bollywood 4k" tvg-name="AR:MY-MBC Bolleywod HD" tvg-logo="https://static.epg.best/sa/MBCBollywoodEn.sa.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Bolleywod FHD
@@ -1256,64 +807,10 @@ https://shls-masr2-prod.shahid.net/masr2-prod.m3u8?airmaxtv.m3u8
 https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC FM 4K" tvg-logo="https://www.okaz.com.sa/uploads/images/2018/09/05/976747.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC panoramafm FHD
 https://shls-panoramafm-prod.shahid.net/panoramafm-prod.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-ZEE ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Zee_Alwan_logo.jpg" group-title="قنوات أم بي سيMBC",AR:MY-ZEE ALWAN
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/638c6fcd19.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-ZEE ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Zee_Alwan_logo.jpg" group-title="قنوات أم بي سيMBC",AR:MY-ZEE ALWAN+
 http://178.63.48.23:25461/ZEEAFLAM/yP7PHmz5hj/130
-#EXTINF:-1 tvg-id="Zee aflam" tvg-name="AR:MY-ZEE AFLAM" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/ZeeAflam.png" group-title="قنوات أم بي سيMBC",AR:MY-ZEE AFLAM
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/91937dfd43.m3u8
 #EXTINF:-1 tvg-id="Zee aflam" tvg-name="AR:MY-ZEE AFLAM" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/ZeeAflam.png" group-title="قنوات أم بي سيMBC",AR:MY-ZEE AFLAM+
 http://178.63.48.23:25461/ZEEAFLAM/yP7PHmz5hj/129
-#EXTINF:-1 tvg-id="Zee aflam" tvg-name="AR:MY-ZEE AFLAM" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f3/B4U_Aflam_Logo.png" group-title="قنوات أم بي سيMBC",B4U AFLAM
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/2f2fdaf6c6.m3u8
-#EXTINF:0 tvg-id="MBC1.net" group-title="قنوات أم بي سيMBC",MBC 1
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/bda8c96b94.m3u8
-#EXTINF:0 tvg-id="MBC1.net" group-title="قنوات أم بي سيMBC",MBC 1  HD
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/9ad04564bf.m3u8
-#EXTINF:0 tvg-id="MBC2.net" group-title="قنوات أم بي سيMBC",MBC 2
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/33cf9437c2.m3u8
-#EXTINF:0 tvg-id="MBC2.net" group-title="قنوات أم بي سيMBC",MBC 2  HD
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/bdb65b97ee.m3u8
-#EXTINF:0 tvg-id="MBC3.net" group-title="قنوات أم بي سيMBC",MBC 3
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/d9c0ec0a18.m3u8
-#EXTINF:0 tvg-id="MBC3.net" group-title="قنوات أم بي سيMBC",MBC 3  HD
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/10131f2a48.m3u8
-#EXTINF:0 tvg-id="MBC4.net" group-title="قنوات أم بي سيMBC",MBC 4
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/ccb37df977.m3u8
-#EXTINF:0 tvg-id="MBC4.net" group-title="قنوات أم بي سيMBC",MBC 4  HD
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/ffa703a72e.m3u8
-#EXTINF:0 tvg-id="MBCDrama.net" group-title="قنوات أم بي سيMBC",MBC DRAMA
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/39c4d89fc1.m3u8
-#EXTINF:0 tvg-id="MBCDrama.net" group-title="قنوات أم بي سيMBC",MBC DRAMA  HD
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/b682ec3556.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",MBC DRAMA PLUS
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/47c6f65a96.m3u8
-#EXTINF:0 tvg-id="MBCAction.net" group-title="قنوات أم بي سيMBC",MBC ACTION
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/7d1825a1df.m3u8
-#EXTINF:0 tvg-id="MBCAction.net" group-title="قنوات أم بي سيMBC",MBC ACTION  HD
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/705c91c214.m3u8
-#EXTINF:0 tvg-id="MBCBollywood.net" group-title="قنوات أم بي سيMBC",MBC BOLLYWOOD
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/b517083196.m3u8
-#EXTINF:0 tvg-id="MBCBollywood.net" group-title="قنوات أم بي سيMBC",MBC BOLLYWOOD HD
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/4bbac999b3.m3u8
-#EXTINF:0 tvg-id="MBCMax.net" group-title="قنوات أم بي سيMBC",MBC MAX
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/275be999ff.m3u8
-#EXTINF:0 tvg-id="MBCMax.net" group-title="قنوات أم بي سيMBC",MBC MAX  HD
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/27c451c728.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",MBC VARIETY HD
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/df9a4b9504.m3u8
-#EXTINF:0 tvg-id="ZeeAflam.net" group-title="قنوات أم بي سيMBC",ZEE AFLAM
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/91937dfd43.m3u8
-#EXTINF:0 tvg-id="ZeeAlwan.net" group-title="قنوات أم بي سيMBC",ZEE ALWAN
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/638c6fcd19.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",MBC MASR
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/f6435015c7.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",MBC MASR 2
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/cdc9acc14a.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",MBC IRAQ
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/4e630c4c30.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",MBC 5
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/7cf7ba769c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 1 HD
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_3.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 2 HD
@@ -1399,19 +896,6 @@ http://188.247.86.67:8008/3
 #EXTINF:-1 tvg-id="" tvg-name="MUS:AR-RADIO ROTANA" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/aPEyXy7va7.png" group-title="قنوات روتانا ROTANA",MUS:AR-RADIO ROTANA
 http://188.247.86.67:8002/3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaMusic.eg.png" group-title="قنوات روتانا ROTANA",ROTANA MUSIC
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/1454cacf99.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="قنوات روتانا ROTANA",ROTANA CINEMA
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/1f2b5e5ed6.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaClassic.eg.png" group-title="قنوات روتانا ROTANA",ROTANA CLASSIC
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/af2923e002.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tv.wataan.com/uploads/2642019-044253PM.png" group-title="قنوات روتانا ROTANA",ROTANA CLIP
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/78f80bc92e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="قنوات روتانا ROTANA",ROTANA KHALIJIA
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/8ac89ca37b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tv.wataan.com/uploads/2642019-044644PM.png" group-title="قنوات روتانا ROTANA",ROTANA MASSRIA
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/4f3a1aa2fd.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="قنوات روتانا ROTANA",Rotana Cinema
 http://178.63.48.23:25461/ROTANAair/6VjiXTV6e4/108
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaClassic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Classic
@@ -1467,8 +951,6 @@ http://5.39.218.151:8400/;
 http://82.137.248.16:1935/Souryana/stream31122019/playlist.m3u8?airmaxtv.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="Syria قنوات سورية",AR:SYR-AL EKHBARIYA
 http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="Syria قنوات سورية",AR:SYR-AL EKHBARIYA+
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/f01490190d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alalam-news-channel-syria-ir-sy.png" group-title="Syria قنوات سورية",AR:SYR-ALAM-SYRIA-TV
 https://live.parstoday.com/live/alam/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81kH%2ByywZoL._SY355_.png" group-title="Syria قنوات سورية",AR:SYR-ORIENT.NEWS
@@ -1510,7 +992,7 @@ https://p-mysat-live.ercdn.net/lbchd/lbchd.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="LEBANON قنوات لبنان",AR:LBN-Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="LEBANON قنوات لبنان",Tele Liban
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/bf918f44cc.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/817xRPg.png" group-title="LEBANON قنوات لبنان",AR:LBN-ETIHAD-TV
 https://live.alittihad.tv/ittihad/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="almanar" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="LEBANON قنوات لبنان",Al Manar
@@ -1530,13 +1012,13 @@ http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvtolive.com/wp-content/uploads/Assirat-TV.tvtolive.com_.jpg" group-title="LEBANON قنوات لبنان",Assirat TV
 https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://www.pngkey.com/png/full/899-8990235_mtv-lebanon-.png" group-title="LEBANON قنوات لبنان",MTV LEBANON+
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/206a443012.m3u8
+
 #EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED+
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/fc4b0f1be8.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-OTV HD+
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" group-title="LEBANON قنوات لبنان",AR:LBN-NBN HD+
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/f557b098c4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nilesat7.net/wp-content/uploads/2019/08/%D9%82%D9%86%D8%A7%D8%A9-%D8%A3%D8%B1%D8%A7%D8%A8%D9%8A%D9%83%D8%A7-Arabica1.png" group-title="LEBANON قنوات لبنان",Arabica TV
 https://p-mysat-live.ercdn.net/arabicatv/arabicatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.channelsfrequency.com/public_html/wp-content/uploads/2016/08/1-8.png" group-title="LEBANON قنوات لبنان",Aghani TV
@@ -1590,7 +1072,7 @@ https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="Roya TV HD" tvg-logo="https://media.licdn.com/dms/image/C4D0BAQGkWyoZQPLQaQ/company-logo_200_200/0?e=2159024400&v=beta&t=314fiy5BLi0ccRei4VgI4eY4I3dP2mwQVSnrkr6MmXU" group-title="JORDAN قنوات الاردن",Roya TV HD
 https://roya-live.ercdn.net/roya/roya.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1222641078093914112/9pgae_yF_400x400.jpg" group-title="JORDAN قنوات الاردن",AR:JR-Jordan TV+
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/84b743aefd.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1222641078093914112/9pgae_yF_400x400.jpg" group-title="JORDAN قنوات الاردن",AR:JR-Jordan TV+
 https://bozztv.com/36bay2/gin/giniko_jordan_900kb_36bay2/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="Amman tv" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBqEOaU3jt-j8BG0Fj0a2KxgD_b2JrynnYzLQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="JORDAN قنوات الاردن",Amman tv
@@ -1668,27 +1150,27 @@ https://player-api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8
 #EXTINF: tvg-logo="https://arabi21.com/Content/Upload/large/220182714513627.jpg" group-title="قنوات المصرية Egypt",▂ ▄ ▅ ▆☆ قنوات المصرية ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF: tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/eg-nile-cinema-1127.jpg" group-title="قنوات المصرية Egypt",NILE CINEMA
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/0ff022877b.m3u8
+
 #EXTINF: tvg-logo="https://i.ytimg.com/vi/SseogVL3A_U/hqdefault.jpg" group-title="قنوات المصرية Egypt",NILE Family
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/d3215755c4.m3u8
+
 #EXTINF: tvg-logo="https://postt.cc/wp-content/uploads/2019/10/2362-4.jpg" group-title="قنوات المصرية Egypt",NILE Drama
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/8ce8900fa5.m3u8
+
 #EXTINF: tvg-logo="https://www.video.wataan.com/uploads/24112016-103820PM.png" group-title="قنوات المصرية Egypt",NILE LIFE
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/4c9d42ec2c.m3u8
+
 #EXTINF: tvg-logo="https://gulf365.co/content/uploads/2019/09/20/23bca3d6ab.jpg" group-title="قنوات المصرية Egypt",Nile Sport
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/1afcf9246b.m3u8
+
 #EXTINF: tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEPAoMwIc1OTIrtV7u3LPM-tyaSyW-jBoQhA&usqp=CAU" group-title="قنوات المصرية Egypt",MELODY CLASSIC
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/42dc0746f2.m3u8
+
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-eh6gJyQsQ_I/UbvJPrcrfYI/AAAAAAAAAms/-uMWBYMt1qg/s1600/images.jpg" group-title="قنوات المصرية Egypt",NILE COMEDY
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/8de075538c.m3u8
+
 #EXTINF:-1 tvg-id="DMC" tvg-logo="http://omgchannel.net/image/cache/catalog/logo-210x89.png" group-title="قنوات المصرية Egypt",Omg Channel TV
 http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="DMC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMeb20yJLO608c1hhICsN-SOnuc8sDb3M_Zw&usqp=CAU" group-title="قنوات المصرية Egypt",Egypt قناه مسلسلات
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/1db4f678f3.m3u8
+
 #EXTINF:-1 tvg-id="DMC" tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png" group-title="قنوات المصرية Egypt",DMC
 https://p-mysat-live.ercdn.net/dmchd/dmchd.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="DMC" tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png" group-title="قنوات المصرية Egypt",DMC+
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/55b308361a.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDiS8sJ2DIAlNdb88UnwEuBFUon5mXT1ygVUg=s900-mo-c-c0xffffffff-rj-k-no" group-title="قنوات المصرية Egypt",DmcDrama
 https://p-mysat-live.ercdn.net/dmcdrama/dmcdrama.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="ON Drama" tvg-logo="https://www.extra-app.net/wp-content/uploads/2020/06/%D9%82%D9%86%D8%A7%D8%A9-%D8%A3%D9%88%D9%86-%D8%AF%D8%B1%D8%A7%D9%85%D8%A7-300x300.jpg" group-title="قنوات المصرية Egypt",ON Drama
@@ -1733,13 +1215,13 @@ rtmp://mn-i.mncdn.com:1935/elsharq_live?=/live
 https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",dream2
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/77/4e/04/774e041ca3209a4f3449c868106e35e7.png" group-title="قنوات المصرية Egypt",CBC
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/2b517cbed1.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",CBC_Drama
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",kahera_nas.isml
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1265430996884901888/mjiu8pFa_400x400.jpg" group-title="قنوات المصرية Egypt",Al Nahar TV
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/95358e7798.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tunisvista.com/medias/al-nahar-drama-tv-live-online-streaming-egypt.png" group-title="قنوات المصرية Egypt",Al Nahar Drama
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/15733f5431.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",kahera+
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",AL dream2
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",Nile cinema
@@ -1787,7 +1269,7 @@ http://streaming.toutech.net/live/jfm/index.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ar.aljanoubiyatv.net/wp-content/uploads/2015/09/header.png" group-title="TUNISIE قنوات تونس",TUNISIE قناة الجنوبية
 http://92.222.93.75:1935/live2/samir/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/930761337877168129/CNOaawpN_400x400.jpg" group-title="TUNISIE قنوات تونس",Nessmatv
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/0e3bd5cb16.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61FO5WMn0XL.png" group-title="TUNISIE قنوات تونس",Ettounsiya TV
 http://watch.teledunet.com:25461/live/hadisite/nv3xv/102274.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJyE9THvScrKtlAYKgNpxGbiy5RjtJE6iibl8UcK=s900-c-k-c0xffffffff-no-rj-mo" group-title="TUNISIE قنوات تونس",hannibaltv
@@ -1799,15 +1281,15 @@ https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8?airmaxtv.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/jePZraQ1FGE/maxresdefault.jpg" group-title="TUNISIE قنوات تونس",قناه الزيتونه
 http://196.179.252.212:8001/play/a00h
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJxoPTRhR85LGH_-JLv8YN2ThwQ6jn8JHOnJZTzzfQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="TUNISIE قنوات تونس",watania1
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/ad2669e6fe.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJxoPTRhR85LGH_-JLv8YN2ThwQ6jn8JHOnJZTzzfQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="TUNISIE قنوات تونس",watania1+
 http://196.179.252.212:8001/play/a002
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJzQzzP7RB2Qpzc0xLgqNsQqiMx-LpnCmPaoeKDHDg=s900-c-k-c0xffffffff-no-rj-mo" group-title="TUNISIE قنوات تونس",watania2
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/671f890958.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJzQzzP7RB2Qpzc0xLgqNsQqiMx-LpnCmPaoeKDHDg=s900-c-k-c0xffffffff-no-rj-mo" group-title="TUNISIE قنوات تونس",watania2+
 http://196.179.252.212:8001/play/a007
 #EXTINF:-1 tvg-id="" tvg-logo="https://mtunisiatv.com/wp-content/uploads/2016/03/logo-mtunisiatv-300x154.png" group-title="TUNISIE قنوات تونس",Tunsia Tv
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/0d4df43b03.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJzLpi0RSTVHPxKkv_-hIYMjiEPCtAj2TW8wo-or4w=s900-c-k-c0xffffffff-no-rj-mo" group-title="TUNISIE قنوات تونس",attessia tv
 http://tv.teledunet.com:25461/live/hadisite/nv3xv/101485.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/F6yV8gv-vF4/hqdefault.jpg" group-title="TUNISIE قنوات تونس",carthage tv
@@ -1815,7 +1297,7 @@ http://tv.teledunet.com:25461/live/hadisite/nv3xv/10056.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJyVGUYn_cqubCxF93A3kcDQQ5cqVoj6PGze4seStQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="TUNISIE قنوات تونس",Mosaique TV
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://4.bp.blogspot.com/-7lhrkSPJ4gw/V2lTF28JKuI/AAAAAAAAA0U/RKcQ1ShpJsUs9a8jFhUJS0TayR1FmJaaQCLcB/s1600/Al%2Binsen%2BTV.png" group-title="TUNISIE قنوات تونس",Tunisie Al Insan 
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/96f8eb5fd5.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/2vXQz2XEKi0/maxresdefault.jpg" group-title="ALGERIEN قنوات الجزائر",▂ ▄ ▅ ▆☆ ALGERIEN قنوات الجزائر ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",EL nahar Alg
@@ -1952,7 +1434,7 @@ https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.favpng.com/18/17/11/kuwait-al-rai-newspaper-iphone-png-favpng-tHDnsDmHsZ2B96idrx1x9QnLN.jpg" group-title="قنوات الكويت Kuwait",AR:Kuwait Alrai TV +
 http://stream02.fasttelco.net/live/_definst_/alrai.stream/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/FunoonTV.png" group-title="قنوات الكويت Kuwait",FUNOON
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/13671a4179.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://fhras.net/wp-content/uploads/2020/04/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-atv-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%D9%8A%D8%A9-2020.jpg" group-title="قنوات الكويت Kuwait",قناة atv الكويتية 1 SD
 rtmp://168.187.49.14:1935/live//atv?v=
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.el7sry2day.info/wp-content/uploads/2019/04/481438_437913999596713_1650868144_n.jpg" group-title="قنوات الكويت Kuwait",قناه المعارف الكويتيه SD
@@ -2301,7 +1783,7 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8?ai
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",iqraa
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF: tvg-logo="https://www.alresalah.net/wp-content/themes/bridge-child/images/logo.png" group-title="قنوات اسلامية",,Al Risala
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/faec74be6e.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",fatehtv
 https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",makkahtv
