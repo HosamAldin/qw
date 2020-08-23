@@ -1210,8 +1210,6 @@ http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8?airmaxtv.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1099155711265857536/oZGTo0ic.png" group-title="قنوات المصرية Egypt",elsharqtv
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1099155711265857536/oZGTo0ic.png" group-title="قنوات المصرية Egypt",elsharqtv+
-rtmp://mn-i.mncdn.com:1935/elsharq_live?=/live
 #EXTINF:-1 tvg-id="" tvg-logo="https://alfath.helool.net/images/d2-logo.png" group-title="قنوات المصرية Egypt",Fateh TV
 https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1265430996884901888/mjiu8pFa_400x400.jpg" group-title="قنوات المصرية Egypt",Al Nahar TV
