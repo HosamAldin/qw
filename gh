@@ -889,8 +889,10 @@ https://p-mysat-live.ercdn.net/rotanaclassic/rotanaclassic.m3u8?airmaxtv.m3u8
 https://p-mysat-live.ercdn.net/rotanadrama/rotanadrama.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaMusic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Music
 https://p-mysat-live.ercdn.net/rotanamusic/rotanamusic.m3u8?airmaxtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaMusic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Music+
+http://46.60.1.82:8081/live2/Rotana/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="قنوات روتانا ROTANA",Rotana Khaleejiya
-http://178.63.48.23:25461/ROTANAair/6VjiXTV6e4/112
+http://46.60.1.82:8081/live2/Rotana.Khalijiah/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="قنوات روتانا ROTANA",Rotana Lbchd
 https://p-mysat-live.ercdn.net/lbchd/lbchd.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="قنوات روتانا ROTANA",Rotana Kids
@@ -908,6 +910,8 @@ http://178.63.48.23:25461/ROTANAair/6VjiXTV6e4/109
 http://178.63.48.23:25461/ROTANAair/6VjiXTV6e4/110
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="قنوات روتانا ROTANA",Rotana Drama
 http://178.63.48.23:25461/ROTANAair/6VjiXTV6e4/111
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="قنوات روتانا ROTANA",Rotana Khaleejiya
+http://178.63.48.23:25461/ROTANAair/6VjiXTV6e4/112
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="قنوات روتانا ROTANA",Rotana Cinema
 https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8?airmaxtv.m3u8
