@@ -592,7 +592,11 @@ https://shls-hadath-prod.shahid.net/hadath-prod.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAD-L2FVt3k8hAoRXQm-7Exkm9QP0q1TQyFtQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="NEWS قنوات الاخبار",AR:ALMAMLKA HD
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1122711431244341254/opVag4Rr_400x400.png" group-title="NEWS قنوات الاخبار",AR:SKY NEWS ARABIC HD
+https://mysat-live.ercdn.net/skynewsarabia/skynewsarabia.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1122711431244341254/opVag4Rr_400x400.png" group-title="NEWS قنوات الاخبار",AR:SKY NEWS ARABIC HD
 https://stream.skynewsarabia.com/hls/sna.m3u8?airmaxtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://news.files.bbci.co.uk/ws/img/logos/og/arabic.png" group-title="NEWS قنوات الاخبار",AR:BBC ARABIC HD
+https://mysat-live.ercdn.net/bbcarabic/bbcarabic.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://news.files.bbci.co.uk/ws/img/logos/og/arabic.png" group-title="NEWS قنوات الاخبار",AR:BBC ARABIC HD+
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.theweek.co.uk/sites/theweek/files/styles/16x8_465/public/8/54/140721-russia-today-logo_0.jpg" group-title="NEWS قنوات الاخبار",AR:RT RUSSIA TODAY HD
@@ -1074,8 +1078,8 @@ https://bit.ly/39YjahM
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="Roya TV HD" tvg-logo="https://media.licdn.com/dms/image/C4D0BAQGkWyoZQPLQaQ/company-logo_200_200/0?e=2159024400&v=beta&t=314fiy5BLi0ccRei4VgI4eY4I3dP2mwQVSnrkr6MmXU" group-title="JORDAN قنوات الاردن",Roya TV HD
 https://roya-live.ercdn.net/roya/roya.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1222641078093914112/9pgae_yF_400x400.jpg" group-title="JORDAN قنوات الاردن",AR:JR-Jordan TV+
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1222641078093914112/9pgae_yF_400x400.jpg" group-title="JORDAN قنوات الاردن",AR:JR-Jordan TV
+http://mysat-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1222641078093914112/9pgae_yF_400x400.jpg" group-title="JORDAN قنوات الاردن",AR:JR-Jordan TV+
 https://bozztv.com/36bay2/gin/giniko_jordan_900kb_36bay2/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="Amman tv" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBqEOaU3jt-j8BG0Fj0a2KxgD_b2JrynnYzLQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="JORDAN قنوات الاردن",Amman tv
@@ -1489,7 +1493,7 @@ http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="قنوات السعودية Saudi-Arabia",مكة TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1212534614994178048/aTsKCDkp_400x400.jpg" group-title="قنوات السعودية Saudi-Arabia",wesal
-http://live.noorlive.com:1935/wesal/wesal1/chunklist.m3u8?airmaxtv.m3u8
+http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lckbSZB.png" group-title=""قنوات السعودية Saudi-Arabia"",Ahl-Alquran TV
 https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="قنوات السعودية Saudi-Arabia",Al Sunnah 
