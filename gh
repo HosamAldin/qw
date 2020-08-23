@@ -43,6 +43,8 @@ https://akamai2-mx.cdn.booyah.live/hls/210154/22214061.m3u8
 https://akamai2-me.cdn.booyah.live/hls/113137/22216613.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein باريس سان جيرمان ضد بايرن ميونيخ
 https://mn-nl-glb.mncdn.com/dlive/transcode-77-2/yopes1140/1598206298/src/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein باريس سان جيرمان ضد بايرن ميونيخ
+https://akamai2-me.cdn.booyah.live/hls/113138/22215895.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
