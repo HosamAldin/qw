@@ -90,24 +90,6 @@ https://vodcache.worldwidetv.club:443/root-c2/liveorigin-abr/hd-bein10/liveorigi
 https://vodcache.worldwidetv.club:443/root-c2/liveorigin-abr/hd-bein11/liveorigin/hd-bein11_480/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 12 FHD+
 https://vodcache.worldwidetv.club:443/root-c2/liveorigin-abr/hd-bein12/liveorigin/hd-bein12_480/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 1 HD
-http://94.130.217.210:1935/adek1/be1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 2 HD
-http://94.130.217.210:1935/adek1/be2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 3 HD
-http://94.130.217.210:1935/adek1/be3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 4 HD
-http://94.130.217.210:1935/adek1/be4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 1 SD
-http://94.130.220.96:1935/adek1/be1_480p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 2 SD
-http://94.130.217.210:1935/adek1/be2_480p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 3 SD
-http://94.130.217.210:1935/adek1/be3_480p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 4 SD
-http://94.130.217.210:1935/adek1/be4_480p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 1 LOW
-http://94.130.217.210:1935/adek1/be1_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT FHD 1
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/131
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT FHD 2
