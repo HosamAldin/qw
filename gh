@@ -222,26 +222,62 @@ http://fariszah.myq-see.com:8008/live/demo/demo/1932.ts
 http://fariszah.myq-see.com:8008/live/demo/demo/2301.ts
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN ALFA MUSALSLAT 2
 http://fariszah.myq-see.com:8008/live/demo/demo/2312.ts
-#EXTINF:0 tvg-id="ext" group-title="OXN",▂ ▄ ▅ ▆☆ OXN CHANNELS ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",▂ ▄ ▅ ▆☆ Shahid net ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="OXN",النسخة المدفوعة AirMax TV
-https://bit.ly/34ooolI
-#EXTINF:0 tvg-id="ext" group-title="OXN",OXN YA HALA CINEMA 1
-http://178.63.48.23:25461/airmaxtvoxn/J9NuiUTDpP/114
-#EXTINF:0 tvg-id="ext" group-title="OXN",OXN CINEMA 2
-http://178.63.48.23:25461/airmaxtvoxn/J9NuiUTDpP/115
-#EXTINF:0 tvg-id="ext" group-title="OXN",OXN ZAMAN
-http://178.63.48.23:25461/airmaxtvoxn/J9NuiUTDpP/116
-#EXTINF:0 tvg-id="ext" group-title="OXN",OXN MIX
-http://178.63.48.23:25461/airmaxtvoxn/J9NuiUTDpP/117
-#EXTINF:0 tvg-id="ext" group-title="OXN",OXN MOVIES 1
-http://178.63.48.23:25461/airmaxtvoxn/J9NuiUTDpP/118
-#EXTINF:0 tvg-id="ext" group-title="OXN",OXN MOVIES 2
-http://178.63.48.23:25461/airmaxtvoxn/J9NuiUTDpP/119
-#EXTINF:0 tvg-id="ext" group-title="OXN",OXN INDIA
-http://178.63.48.23:25461/airmaxtvoxn/J9NuiUTDpP/120
-#EXTINF:0 tvg-id="ext" group-title="OXN",OXN ISLAMIC
-http://178.63.48.23:25461/airmaxtvoxn/J9NuiUTDpP/121
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Action 1
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/175
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Action 2
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/176
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Drama 1
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/177
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Drama 2
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/178
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Comedy 1
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/179
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Comedy 2
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/180
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Adventure 1
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/181
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Adventure 2
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/182
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Bollywood 2
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/183
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Arabia 1
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/184
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Crime 1
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/185
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Crime 2
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/186
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Arabia 2
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/187
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Documentary 1
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/188
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Sci-Fi 1
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/189
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Horror 1
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/190
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Horror 2
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/191
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Thriller 1
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/192
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Thriller 2
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/193
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Kids 1
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/194
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Bollywood 1
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/195
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Family 1
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/196
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Documentary 2
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/197
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",AMAZON PRIME ACTION 1
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/198
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",AMAZON PRIME ACTION  2
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/199
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",AMAZON PRIME ACTION  3
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/200
+#EXTINF:0 tvg-id="ext" group-title="Shahid net",AMAZON PRIME ACTION 4
+http://178.63.48.23:25461/Shahidnet/QuxqhlrWJO/201
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",▂ ▄ ▅ ▆☆ NETFLIX CHANNELS ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",النسخة المدفوعة AirMax TV
