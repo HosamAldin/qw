@@ -1193,11 +1193,11 @@ http://streaming.toutech.net/live/jfm/index.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ar.aljanoubiyatv.net/wp-content/uploads/2015/09/header.png" group-title="TUNISIE قنوات تونس",TUNISIE قناة الجنوبية
 http://92.222.93.75:1935/live2/samir/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/930761337877168129/CNOaawpN_400x400.jpg" group-title="TUNISIE قنوات تونس",Nessmatv
-
+http://local.teledunet.com:25461/live/tdn/nv3xv/101478.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61FO5WMn0XL.png" group-title="TUNISIE قنوات تونس",Ettounsiya TV
-http://watch.teledunet.com:25461/live/hadisite/nv3xv/102274.m3u8?airmaxtv.m3u8
+http://local.teledunet.com:25461/live/tdn/nv3xv/102274.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJyE9THvScrKtlAYKgNpxGbiy5RjtJE6iibl8UcK=s900-c-k-c0xffffffff-no-rj-mo" group-title="TUNISIE قنوات تونس",hannibaltv
-http://watch.teledunet.com:25461/live/hadisite/nv3xv/101481.m3u8?airmaxtv.m3u8
+http://local.teledunet.com:25461/live/tdn/nv3xv/101481.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/K1h5RZ7AD9A/hqdefault.jpg" group-title="TUNISIE قنوات تونس",Sahel TV
 https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.tunisieimmobiliertv.net/wp-content/uploads/2018/05/LOGOO.png?fit=452%2C474&ssl=1" group-title="TUNISIE قنوات تونس",Tunimmob TV
@@ -1205,21 +1205,12 @@ https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8?airmaxtv.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/jePZraQ1FGE/maxresdefault.jpg" group-title="TUNISIE قنوات تونس",قناه الزيتونه
 http://196.179.252.212:8001/play/a00h
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJxoPTRhR85LGH_-JLv8YN2ThwQ6jn8JHOnJZTzzfQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="TUNISIE قنوات تونس",watania1
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJxoPTRhR85LGH_-JLv8YN2ThwQ6jn8JHOnJZTzzfQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="TUNISIE قنوات تونس",watania1+
-http://196.179.252.212:8001/play/a002
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJzQzzP7RB2Qpzc0xLgqNsQqiMx-LpnCmPaoeKDHDg=s900-c-k-c0xffffffff-no-rj-mo" group-title="TUNISIE قنوات تونس",watania2
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJzQzzP7RB2Qpzc0xLgqNsQqiMx-LpnCmPaoeKDHDg=s900-c-k-c0xffffffff-no-rj-mo" group-title="TUNISIE قنوات تونس",watania2+
-http://196.179.252.212:8001/play/a007
 #EXTINF:-1 tvg-id="" tvg-logo="https://mtunisiatv.com/wp-content/uploads/2016/03/logo-mtunisiatv-300x154.png" group-title="TUNISIE قنوات تونس",Tunsia Tv
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJzLpi0RSTVHPxKkv_-hIYMjiEPCtAj2TW8wo-or4w=s900-c-k-c0xffffffff-no-rj-mo" group-title="TUNISIE قنوات تونس",attessia tv
-http://tv.teledunet.com:25461/live/hadisite/nv3xv/101485.m3u8?airmaxtv.m3u8
+http://195.154.136.160:8080/hls/attesiatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/F6yV8gv-vF4/hqdefault.jpg" group-title="TUNISIE قنوات تونس",carthage tv
 http://tv.teledunet.com:25461/live/hadisite/nv3xv/10056.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJyVGUYn_cqubCxF93A3kcDQQ5cqVoj6PGze4seStQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="TUNISIE قنوات تونس",Mosaique TV
-https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://4.bp.blogspot.com/-7lhrkSPJ4gw/V2lTF28JKuI/AAAAAAAAA0U/RKcQ1ShpJsUs9a8jFhUJS0TayR1FmJaaQCLcB/s1600/Al%2Binsen%2BTV.png" group-title="TUNISIE قنوات تونس",Tunisie Al Insan 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/2vXQz2XEKi0/maxresdefault.jpg" group-title="ALGERIEN قنوات الجزائر",▂ ▄ ▅ ▆☆ ALGERIEN قنوات الجزائر ☆▆ ▅ ▄ ▂ ▁
@@ -1228,10 +1219,6 @@ https://bit.ly/39YjahM
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:El Djazair N1
 http://82.212.74.5:8000/live/hls/7728.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:SamiraTV
-http://37.235.38.131:9090/SamiraTV
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:Dzair_Jannah
-http://37.235.38.131:9090/Dzair_Jannah
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:EchoroukTV
 http://217.182.250.232:8081/echo/EchoroukTV/chunks.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alandroidnet.com/thumbnail?src=images/appsimages/appimg-ramTnpaf.jpg" group-title="LIBYA قنوات ليبيا",▂ ▄ ▅ ▆☆ LIBYA قنوات ليبيا ☆▆ ▅ ▄ ▂ ▁
