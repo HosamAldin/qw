@@ -1094,10 +1094,14 @@ https://bit.ly/39YjahM
 http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="DMC" tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png" group-title="قنوات المصرية Egypt",DMC
 https://p-mysat-live.ercdn.net/dmchd/dmchd.m3u8?airmaxtv.m3u8
+#EXTINF:-1 tvg-id="DMC" tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png" group-title="قنوات المصرية Egypt",DMC+
+https://www.elahmad.com/tv/m3u8/tv3_anywhere.m3u8?id=dmc_tv
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDiS8sJ2DIAlNdb88UnwEuBFUon5mXT1ygVUg=s900-mo-c-c0xffffffff-rj-k-no" group-title="قنوات المصرية Egypt",DmcDrama
 https://p-mysat-live.ercdn.net/dmcdrama/dmcdrama.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="ON Drama" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1134_1.png" group-title="قنوات المصرية Egypt",ON Drama
 https://p-mysat-live.ercdn.net/ondrama/ondrama.m3u8?airmaxtv.m3u8
+#EXTINF:-1 tvg-id="ON Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/ON_logo.png" group-title="قنوات المصرية Egypt",ON E
+https://www.elahmad.com/tv/m3u8/tv3_anywhere.m3u8?id=ontv
 #EXTINF:-1 tvg-id="Sada El Balad" tvg-logo="https://egytvs.com/wp-content/uploads/2012/11/Elbalad.jpg" group-title="قنوات المصرية Egypt",Sada El Balad
 https://p-mysat-live.ercdn.net/sadaelbalad/sadaelbalad.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="Alhayat" tvg-logo="https://i.pinimg.com/474x/f5/ec/a5/f5eca579fec5820d4fe36d372c794597.jpg" group-title="قنوات المصرية Egypt",Alhayat
@@ -1230,52 +1234,6 @@ http://37.235.38.131:9090/SamiraTV
 http://37.235.38.131:9090/Dzair_Jannah
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:EchoroukTV
 http://217.182.250.232:8081/echo/EchoroukTV/chunks.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: PROGRAME NATIONAL
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/4
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Canal Algerie
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/5
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Algeria 3
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/6
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: TV 4
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/7
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: TV 5
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/8
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Echorouk TV
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/9
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Echourouk News
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/10
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Ennahar TV
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/11
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Numidia TV
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/12
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Dzair TV
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/13
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Al Anis TV
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/14
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: El Biled News
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/15
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Samira TV
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/16
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Berbere TV
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/17
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: EL Djazairia
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/18
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: EL FADJR TV
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/19
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: EL HAYAT TV
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/20
-#EXTINF:0 tvg-id="NatGeoAD.net" group-title="ALGERIEN قنوات الجزائر",AR: Nat Geo AD
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/21
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: El Haddaf
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/22
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Bahia TV
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/23
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",TUN: Nessma TV
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/24
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: Beur TV
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/25
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG: EL ADJWAA
-http://62.171.175.99:25461/Ls0fzQjQTX/fmaoiF3bzM/26
 #EXTINF:-1 tvg-id="" tvg-logo="https://alandroidnet.com/thumbnail?src=images/appsimages/appimg-ramTnpaf.jpg" group-title="LIBYA قنوات ليبيا",▂ ▄ ▅ ▆☆ LIBYA قنوات ليبيا ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/ksa5.net/wp-content/uploads/2018/08/Libya-One-Tv.jpg?resize=300%2C200&ssl=1" group-title="LIBYA قنوات ليبيا",AR:LIB-Libya 1
