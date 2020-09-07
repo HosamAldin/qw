@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",عداني العيب الحلقة S01E01
+https://d3-sn---uxaxjvhxbt2u-j5p6.aa4l.net/files/series/earabi/eadani-aleayb/eadani-aleayb.ep01.mp4
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E01
 https://cdn.alarab.com/h264/158688_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E02
@@ -17,6 +19,14 @@ https://cdn.alarab.com/h264/158776_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/158791_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E09
 https://cdn.alarab.com/h264/158818_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E10
+https://d3-sn---uxaxjvhxbt2u-j5p6.aa4l.net/files/series/earabi/dantil/dantil.ep10.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E11
+https://d3-sn---uxaxjvhxbt2u-j5p6.aa4l.net/files/series/earabi/dantil/dantil.ep11.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E12
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E13
+
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",شارع شيكاغو الحلقة S01E01
 https://d3-sn---uxaxjvhxbt2u-j5p6.aa4l.net/files/series/earabi/sharie-shikaghu/sharie-shikaghu.ep01.mp4
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",شارع شيكاغو الحلقة S01E02
@@ -9154,6 +9164,8 @@ https://cdn.alarab.com/h264/153900_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/156854_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E29
 https://cdn.alarab.com/h264/156972_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E30
+https://cdn.alarab.com/h264/158897_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل أسفي على شبابي",أسفي على شبابيS01E01
 https://cdn.alarab.com/h264/157168_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل أسفي على شبابي",أسفي على شبابيS01E02
@@ -9253,6 +9265,9 @@ https://cdn.alarab.com/h264/158556_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E07
 https://cdn.alarab.com/h264/158710_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E08
+https://cdn.alarab.com/h264/158856_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E01
+https://cdn.alarab.com/h264/158855_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="إما الإستقلال أو الموت",إما الإستقلال أو الموتS01E01
 https://cdn.alarab.com/h264/153446_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="إما الإستقلال أو الموت",إما الإستقلال أو الموتS01E02
