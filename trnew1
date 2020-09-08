@@ -262,6 +262,8 @@ https://cdn.alarab.com/h264/153266_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/153438_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S03E26
 https://cdn.alarab.com/h264/154291_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S04E01
+https://cdn.alarab.com/h264/158933_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل إسطنبول الظالمة",TR إسطنبول الظالمة 1
 https://cdn.alarab.com/hdiphone/127884.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل إسطنبول الظالمة",TR إسطنبول الظالمة 2
@@ -977,8 +979,8 @@ https://cdn.alarab.com/h264/153726_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/157024_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="ابنة السفير",ابنة السفير 17
 https://cdn.alarab.com/h264/157151_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-
-
+#EXTINF:0 tvg-id="avi" group-title="ابنة السفير",ابنة السفير 18
+https://cdn.alarab.com/h264/158935_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل البطل",البطل الحلقة 1
 https://cdn.alarab.com/h264/151830_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل البطل",البطل الحلقة 2
