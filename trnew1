@@ -1856,3 +1856,125 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/land4/84.mp4/playlist.m3u8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/land4/85.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الارض الطيبة",الارض الطيبة  S04E86
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/land4/86.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee  الجزء الاول الحلقة الاخيرة
+https://cdn.alarab.com/480/127899_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_1
+https://cdn.alarab.com/h264/152539_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_2
+https://cdn.alarab.com/h264/152540_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_3
+https://cdn.alarab.com/h264/152543_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_4
+https://cdn.alarab.com/h264/152557_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_5
+https://cdn.alarab.com/h264/152653_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_6
+https://cdn.alarab.com/h264/152620_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_7
+https://cdn.alarab.com/h264/152654_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_8
+https://cdn.alarab.com/h264/152682_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_9
+https://cdn.alarab.com/h264/152748_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_10
+https://cdn.alarab.com/h264/152749_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_11
+https://cdn.alarab.com/h264/152765_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_12
+https://cdn.alarab.com/h264/152789_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_13
+https://cdn.alarab.com/h264/152825_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_14
+https://cdn.alarab.com/h264/152850_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_15
+https://cdn.alarab.com/h264/152906_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_16
+https://cdn.alarab.com/h264/152927_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_17
+https://cdn.alarab.com/h264/152948_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_18
+https://cdn.alarab.com/h264/152966_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_19
+https://cdn.alarab.com/h264/152995_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_20
+https://cdn.alarab.com/h264/153094_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_21
+https://cdn.alarab.com/h264/153097_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_22
+https://cdn.alarab.com/h264/153124_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_23
+https://cdn.alarab.com/h264/153145_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_24
+https://cdn.alarab.com/h264/153165_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_25
+https://cdn.alarab.com/h264/153214_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_26
+https://cdn.alarab.com/h264/153232_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_27
+https://cdn.alarab.com/h264/153264_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_28
+https://cdn.alarab.com/h264/153281_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_29
+https://cdn.alarab.com/h264/153304_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_30
+https://cdn.alarab.com/h264/153369_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_31
+https://cdn.alarab.com/h264/153411_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_32
+https://cdn.alarab.com/h264/153436_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_33
+https://cdn.alarab.com/h264/153450_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_34
+https://cdn.alarab.com/h264/153473_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_35
+https://cdn.alarab.com/h264/153559_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_36
+https://cdn.alarab.com/h264/153581_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_37
+https://cdn.alarab.com/h264/153583_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_38
+https://cdn.alarab.com/h264/153610_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_39
+https://cdn.alarab.com/h264/153639_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_40
+https://cdn.alarab.com/h264/153686_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_41
+https://cdn.alarab.com/h264/153700_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_42
+https://cdn.alarab.com/h264/153729_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_43
+https://cdn.alarab.com/h264/153751_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_44
+https://cdn.alarab.com/h264/153782_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_45
+https://cdn.alarab.com/h264/153899_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_46
+https://cdn.alarab.com/h264/153971_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_47
+https://cdn.alarab.com/h264/154012_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_48
+https://cdn.alarab.com/h264/154029_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_49
+https://cdn.alarab.com/h264/154047_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_50
+https://cdn.alarab.com/h264/154099_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_51
+https://cdn.alarab.com/h264/154102_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_52
+https://cdn.alarab.com/h264/154127_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_53
+https://cdn.alarab.com/h264/154151_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_54
+https://cdn.alarab.com/h264/154176_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_55
+https://cdn.alarab.com/h264/154242_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_56
+https://cdn.alarab.com/h264/154243_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_57
+https://cdn.alarab.com/h264/154293_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_58
+https://cdn.alarab.com/h264/154318_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_59
+https://s4.hdup.net/5r63r2t3zbjivea6gvplefirn5ln774fk6wpkpxqt2dhv2yfg43cpbalmy6a/v.mp4
+#EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_60
+https://s4.hdup.net/5r63qd32zbjivea6gvpletsrfoh6lo6hvlzkpiw7e6ymnrmyv5lcjuncxgnq/v.mp4
