@@ -789,6 +789,8 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Destiny-The-Tale-of-K
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Heung-boo-The-Revolutionist-2018.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="افلام أجنبية مترجمه",▂ ▄ ▅ ▆☆ افلام أجنبية مترجمه ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="avi" group-title="افلام أجنبية مترجمه",The Faceless Man
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Faceless.Man.2019.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام أجنبية مترجمه",The War with Grandpa
 https://cdn.alarab.com/h264/158803_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام أجنبية مترجمه",Hard Kill
