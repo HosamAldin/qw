@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E01
+https://cdn.alarab.com/h264/158895_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E02
+https://cdn.alarab.com/h264/158919_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E01
+https://cdn.alarab.com/h264/158902_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E02
+https://cdn.alarab.com/h264/158918_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",عداني العيب الحلقة S01E01
 https://d3-sn---uxaxjvhxbt2u-j5p6.aa4l.net/files/series/earabi/eadani-aleayb/eadani-aleayb.ep01.mp4
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",عداني العيب الحلقة S01E02
@@ -22,11 +30,11 @@ https://cdn.alarab.com/h264/158791_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E09
 https://cdn.alarab.com/h264/158818_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E10
-https://d3-sn---uxaxjvhxbt2u-j5p6.aa4l.net/files/series/earabi/dantil/dantil.ep10.mp4
+https://cdn.alarab.com/h264/158903_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E11
-https://d3-sn---uxaxjvhxbt2u-j5p6.aa4l.net/files/series/earabi/dantil/dantil.ep11.mp4
+https://cdn.alarab.com/h264/158904_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E12
-
+https://cdn.alarab.com/h264/158920_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E13
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",شارع شيكاغو الحلقة S01E01
@@ -89,7 +97,7 @@ https://d3-sn---uxaxjvhxbt2u-j5p6.aa4l.net/files/series/earabi/sharie-shikaghu/s
 https://d3-sn---uxaxjvhxbt2u-j5p6.aa4l.net/files/series/earabi/sharie-shikaghu/sharie-shikaghu.ep29.mp4
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",شارع شيكاغو الحلقة S01E30
 https://d3-sn---uxaxjvhxbt2u-j5p6.aa4l.net/files/series/earabi/sharie-shikaghu/sharie-shikaghu.ep30.mp4
-#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",شارع شيكاغو الحلقة S01E31
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",شارع شيكاغو الحلقة S01E31 الاخيرة
 https://d3-sn---uxaxjvhxbt2u-j5p6.aa4l.net/files/series/earabi/sharie-shikaghu/sharie-shikaghu.ep31.mp4
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",مسلسل وعيت الحلقة S01E01
 https://r5-sn---uxaxjvhxbt2u-i5pel.kwplayer.com/wp-content/uploads/series/arabic/waeiat/waeiat.EP01.mp4
@@ -9170,6 +9178,8 @@ https://cdn.alarab.com/h264/156854_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/156972_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E30
 https://cdn.alarab.com/h264/158897_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل ماريا ومصطفى",ماريا ومصطفىS01E01
+https://cdn.alarab.com/h264/158911_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل أسفي على شبابي",أسفي على شبابيS01E01
 https://cdn.alarab.com/h264/157168_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل أسفي على شبابي",أسفي على شبابيS01E02
@@ -9207,6 +9217,8 @@ https://cdn.alarab.com/h264/158823_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/158544_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل التوبة",التوبةS01E02
 https://cdn.alarab.com/h264/158550_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E01
+https://cdn.alarab.com/h264/158894_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل التركي المعلم",مسلسل التركي المعلمS01E01
 https://cdn.alarab.com/h264/153163_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل التركي المعلم",مسلسل التركي المعلمS01E02
@@ -9236,6 +9248,7 @@ https://cdn.alarab.com/h264/158573_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 #EXTINF:0 tvg-id="avi" group-title="مسلسل حب في العلّية",مسلسل حب في العلّيةS01E08
 https://cdn.alarab.com/h264/158729_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل حب في العلّية",مسلسل حب في العلّيةS01E09
+https://cdn.alarab.com/h264/158898_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الرجل الخطأ",مسلسل الرجل الخطأS01E01
 https://cdn.alarab.com/h264/156883_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الرجل الخطأ",مسلسل الرجل الخطأS01E02
@@ -9254,6 +9267,8 @@ https://cdn.alarab.com/h264/158435_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/158597_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الرجل الخطأ",مسلسل الرجل الخطأS01E09
 https://cdn.alarab.com/h264/158747_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل الرجل الخطأ",مسلسل الرجل الخطأS01E10
+https://cdn.alarab.com/h264/158885_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E01
 https://cdn.alarab.com/h264/157628_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E02
