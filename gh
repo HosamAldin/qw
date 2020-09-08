@@ -507,6 +507,8 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mClstU-uA-TBDWsc8zkB_mjBgUMvIh1WJwarg=s900-mo-c-c0xffffffff-rj-k-no" group-title="NEWS قنوات الاخبار",AR:AL HADATH HD
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mClstU-uA-TBDWsc8zkB_mjBgUMvIh1WJwarg=s900-mo-c-c0xffffffff-rj-k-no" group-title="NEWS قنوات الاخبار",AR:AL HADATH HD+
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAD-L2FVt3k8hAoRXQm-7Exkm9QP0q1TQyFtQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="NEWS قنوات الاخبار",AR:ALMAMLKA HD
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1122711431244341254/opVag4Rr_400x400.png" group-title="NEWS قنوات الاخبار",AR:SKY NEWS ARABIC HD
@@ -712,7 +714,9 @@ https://shls-iraq-prod.shahid.net/iraq-prod.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="MBC Max 4K" tvg-name="AR:MY-MBC Max HD" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Max FHD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="MBC Action" tvg-name="AR:MY-MBC ACTION 4K" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC ACTION FHD
-http://62.171.169.140:25461/live/siko/siko/9.m3u8
+http://161.97.101.27:25461/live/stream/stream1/11.m3u8
+#EXTINF:-1 tvg-id="MBC Action" tvg-name="AR:MY-MBC ACTION 4K" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC ACTION FHD+
+http://shamsi.xyz:25461/free/free/102
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC VARIETY 4K" tvg-logo="https://www.gobx.com/wp-content/uploads/2016/08/MBC-Variety.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC VARIETY HD+
 http://178.63.48.23:25461/airmaxtvosn/swApj6Bq3T/15
