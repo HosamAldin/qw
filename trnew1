@@ -942,7 +942,10 @@ https://cdn.alarab.com/h264/153453_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/153625_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 14
 https://cdn.alarab.com/h264/154032_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-
+#EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 15
+https://cdn.alarab.com/h264/158978_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 16
+https://cdn.alarab.com/h264/158972_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="ابنة السفير",ابنة السفير 1
 https://cdn.alarab.com/h264/152182_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="ابنة السفير",ابنة السفير 2
