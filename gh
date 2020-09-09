@@ -1548,6 +1548,8 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/58.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="مسرحيات",▂ ▄ ▅ ▆☆ مسرحيات ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="avi" group-title="مسرحيات",AR:
+#EXTINF:0 tvg-id="avi" group-title="مسرحيات",AR:مسرحية عودة ريا
+https://cdn.alarab.com/h264/158962_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسرحيات",AR:shahed
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/shahed.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسرحيات",AR:Khibetna
