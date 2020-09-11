@@ -698,7 +698,7 @@ https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="MBC1 4K" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 1 FHD
-https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8?airmaxtv.m3u8
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
 #EXTINF:-1 tvg-id="MBC2 4K" tvg-name="AR:MY-MBC 2 HD" tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 2 FHD
 https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="MBC 3" tvg-name="AR:MY-MBC 3 HD" tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 3 FHD
@@ -706,11 +706,11 @@ https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="MBC4 4k" tvg-name="AR:MY-MBC 4 HD" tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 4 FHD
 https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="MBC5 4K" tvg-name="AR:MY-MBC ⓹ 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 5 FHD
-https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8?airmaxtv.m3u8
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-id="Wanasah" tvg-name="AR:MY-MBC Wanasah FHD" tvg-logo="https://www.arabsat.com/Library/ChannelImages/Wanasah.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Wanasah FHD
 https://shls-wanasah-prod.shahid.net/wanasah-prod.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="MBC Iraq" tvg-name="AR:MY-MBC IRAQ HD" tvg-logo="https://www.almowaten.net/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC IRAQ FHD
-https://shls-iraq-prod.shahid.net/iraq-prod.m3u8?airmaxtv.m3u8
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-id="MBC Max 4K" tvg-name="AR:MY-MBC Max HD" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Max FHD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="MBC Action" tvg-name="AR:MY-MBC ACTION 4K" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC ACTION FHD
@@ -727,13 +727,13 @@ https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="MBC PLUS DRAMA 4K" tvg-name="AR:MY-MBC Drama  Plus HD" tvg-logo="https://tvfcdn.com/big/mbc-plus-drama-hd.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC Drama  Plus FHD
 https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="MBC MASR 4K" tvg-name="AR:MY-MBC Masr" tvg-logo="https://pbs.twimg.com/profile_images/1009450954461237248/KA75GzF4.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC Masr FHD
-https://shls-masr-prod.shahid.net/masr-prod.m3u8?airmaxtv.m3u8
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
 #EXTINF:-1 tvg-id="MBC MASR2 4K" tvg-name="AR:MY-MBC MASR ⓶ 4K" tvg-logo="https://www.tv.wataan.com/uploads/2542019-045632PM.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC MASR 2 FHD
-https://shls-masr2-prod.shahid.net/masr2-prod.m3u8?airmaxtv.m3u8
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC FM 4K" tvg-logo="https://cdn-radiotime-logos.tunein.com/p465453g.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC FM FHD
 https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC FM 4K" tvg-logo="https://www.okaz.com.sa/uploads/images/2018/09/05/976747.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC panoramafm FHD
-https://shls-panoramafm-prod.shahid.net/panoramafm-prod.m3u8?airmaxtv.m3u8
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-ZEE ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Zee_Alwan_logo.jpg" group-title="قنوات أم بي سيMBC",AR:MY-ZEE ALWAN+
 http://178.63.48.23:25461/ZEEAFLAM/yP7PHmz5hj/130
 #EXTINF:-1 tvg-id="Zee aflam" tvg-name="AR:MY-ZEE AFLAM" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/ZeeAflam.png" group-title="قنوات أم بي سيMBC",AR:MY-ZEE AFLAM+
