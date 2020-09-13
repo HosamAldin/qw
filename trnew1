@@ -432,6 +432,8 @@ https://cdn.alarab.com/h264/158497_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/158684_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل أسفي على شبابي",أسفي على شبابيS01E12
 https://cdn.alarab.com/h264/158793_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل أسفي على شبابي",أسفي على شبابيS01E13
+https://cdn.alarab.com/h264/158939_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ألف",ألفS01E01
 https://cdn.alarab.com/h264/154125_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ألف",ألفS01E07
@@ -447,6 +449,8 @@ https://cdn.alarab.com/h264/158544_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/158550_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E01
 https://cdn.alarab.com/h264/158894_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E02
+https://cdn.alarab.com/h264/159043_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل التركي المعلم",مسلسل التركي المعلمS01E01
 https://cdn.alarab.com/h264/153163_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل التركي المعلم",مسلسل التركي المعلمS01E02
@@ -497,6 +501,8 @@ https://cdn.alarab.com/h264/158597_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/158747_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الرجل الخطأ",مسلسل الرجل الخطأS01E10
 https://cdn.alarab.com/h264/158885_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل الرجل الخطأ",مسلسل الرجل الخطأS01E11
+https://cdn.alarab.com/h264/159044_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E01
 https://cdn.alarab.com/h264/157628_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E02
@@ -515,6 +521,8 @@ https://cdn.alarab.com/h264/158710_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/158856_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E01
 https://cdn.alarab.com/h264/158855_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E02
+https://cdn.alarab.com/h264/159020_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="إما الإستقلال أو الموت",إما الإستقلال أو الموتS01E01
 https://cdn.alarab.com/h264/153446_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="إما الإستقلال أو الموت",إما الإستقلال أو الموتS01E02
@@ -678,6 +686,8 @@ https://cdn.alarab.com/h264/153362_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/153534_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="بابل",بابل 10
 https://cdn.alarab.com/h264/153679_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="بابل",بابل 11
+https://cdn.alarab.com/h264/159045_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="زمهرير",زمهرير 1
 https://cdn.alarab.com/h264/152073_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="زمهرير",زمهرير 2
