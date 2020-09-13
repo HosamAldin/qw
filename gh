@@ -945,7 +945,7 @@ https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="Roya TV HD" tvg-logo="https://media.licdn.com/dms/image/C4D0BAQGkWyoZQPLQaQ/company-logo_200_200/0?e=2159024400&v=beta&t=314fiy5BLi0ccRei4VgI4eY4I3dP2mwQVSnrkr6MmXU" group-title="JORDAN قنوات الاردن",Roya TV HD
-https://roya-live.ercdn.net/roya/roya.m3u8?airmaxtv.m3u8
+https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1222641078093914112/9pgae_yF_400x400.jpg" group-title="JORDAN قنوات الاردن",AR:JR-Jordan TV
 http://mysat-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1222641078093914112/9pgae_yF_400x400.jpg" group-title="JORDAN قنوات الاردن",AR:JR-Jordan TV+
