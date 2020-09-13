@@ -943,6 +943,8 @@ http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.makan.org.il/images/logo_ogImageKanArabic.jpg" group-title="PALESTINE قنوات فلسطين",ARقناه مكان
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8?airmaxtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.maannews.net/assets/images/maan_og.png" group-title="PALESTINE قنوات فلسطين",Maan News
+http://htvmada.mada.ps:8888/maannews/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.muhtwa.com/wp-content/uploads/JRTV-logo-3d.png" group-title="JORDAN قنوات الاردن",▂ ▄ ▅ ▆☆ JORDAN قنوات الاردن ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",النسخة المدفوعة AirMax TV
@@ -1043,6 +1045,8 @@ https://www.elahmad.com/tv/m3u8/tv3_anywhere.m3u8?id=ontv
 https://p-mysat-live.ercdn.net/sadaelbalad/sadaelbalad.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="Alhayat" tvg-logo="https://i.pinimg.com/474x/f5/ec/a5/f5eca579fec5820d4fe36d372c794597.jpg" group-title="قنوات المصرية Egypt",Alhayat
 https://p-mysat-live.ercdn.net/alhayat/alhayat.m3u8?airmaxtv.m3u8
+#EXTINF:-1 tvg-id="Alhayat" tvg-logo="https://www.tv.wataan.com/uploads/3042020-032014PM-1.jpg" group-title="قنوات المصرية Egypt",alhayat drama
+http://mysat-live.ercdn.net/alhayatdrama/alhayatdrama.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1176_1.png" group-title="قنوات المصرية Egypt",Cima
 https://p-mysat-live.ercdn.net/cima/cima.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/SseogVL3A_U/hqdefault.jpg" group-title="قنوات المصرية Egypt",Nile Family
